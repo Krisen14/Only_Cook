@@ -1,0 +1,298 @@
+[
+    {
+        "merged": "com.example.uts.app-merged_res-82:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.uts.app-main-83:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/drawable_icon_background.xml.flat",
+        "source": "com.example.uts.app-main-83:/drawable/icon_background.xml"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/layout_fragment_receipt.xml.flat",
+        "source": "com.example.uts.app-main-83:/layout/fragment_receipt.xml"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/drawable_cook.xml.flat",
+        "source": "com.example.uts.app-main-83:/drawable/cook.xml"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/drawable_outline_main.xml.flat",
+        "source": "com.example.uts.app-main-83:/drawable/outline_main.xml"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/font_poppins_medium.ttf.flat",
+        "source": "com.example.uts.app-main-83:/font/poppins_medium.ttf"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.uts.app-main-83:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.uts.app-main-83:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/layout_fragment_my_receipt.xml.flat",
+        "source": "com.example.uts.app-main-83:/layout/fragment_my_receipt.xml"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/layout_activity_detail_receipt.xml.flat",
+        "source": "com.example.uts.app-main-83:/layout/activity_detail_receipt.xml"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.uts.app-main-83:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.uts.app-main-83:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.uts.app-main-83:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/font_titillium_web_light.xml.flat",
+        "source": "com.example.uts.app-main-83:/font/titillium_web_light.xml"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/drawable_baseline_edit_note_24.xml.flat",
+        "source": "com.example.uts.app-main-83:/drawable/baseline_edit_note_24.xml"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/drawable_baseline_insert_photo_24.xml.flat",
+        "source": "com.example.uts.app-main-83:/drawable/baseline_insert_photo_24.xml"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/navigation_nav_graph.xml.flat",
+        "source": "com.example.uts.app-main-83:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/drawable_baseline_favorite_24.xml.flat",
+        "source": "com.example.uts.app-main-83:/drawable/baseline_favorite_24.xml"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/drawable_cook3.jpg.flat",
+        "source": "com.example.uts.app-main-83:/drawable/cook3.jpg"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/layout_item_receipt.xml.flat",
+        "source": "com.example.uts.app-main-83:/layout/item_receipt.xml"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/drawable_baseline_arrow_back_ios_24.xml.flat",
+        "source": "com.example.uts.app-main-83:/drawable/baseline_arrow_back_ios_24.xml"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/drawable_baseline_favorite_border_24.xml.flat",
+        "source": "com.example.uts.app-main-83:/drawable/baseline_favorite_border_24.xml"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.uts.app-main-83:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/layout_fragment_profile.xml.flat",
+        "source": "com.example.uts.app-main-83:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/drawable_delete_svg.xml.flat",
+        "source": "com.example.uts.app-main-83:/drawable/delete_svg.xml"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/drawable_baseline_add_24.xml.flat",
+        "source": "com.example.uts.app-main-83:/drawable/baseline_add_24.xml"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/layout_activity_login.xml.flat",
+        "source": "com.example.uts.app-main-83:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/drawable_kayu.jpg.flat",
+        "source": "com.example.uts.app-main-83:/drawable/kayu.jpg"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/drawable_resep1.webp.flat",
+        "source": "com.example.uts.app-main-83:/drawable/resep1.webp"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/drawable_onlycooklogo.png.flat",
+        "source": "com.example.uts.app-main-83:/drawable/onlycooklogo.png"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/font_poppins_bold.ttf.flat",
+        "source": "com.example.uts.app-main-83:/font/poppins_bold.ttf"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.uts.app-main-83:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/layout_activity_add_receipt.xml.flat",
+        "source": "com.example.uts.app-main-83:/layout/activity_add_receipt.xml"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/drawable_baseline_image_24.xml.flat",
+        "source": "com.example.uts.app-main-83:/drawable/baseline_image_24.xml"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.uts.app-main-83:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/drawable_resep5.png.flat",
+        "source": "com.example.uts.app-main-83:/drawable/resep5.png"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/xml_file_paths.xml.flat",
+        "source": "com.example.uts.app-main-83:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/layout_item_my_receipt.xml.flat",
+        "source": "com.example.uts.app-main-83:/layout/item_my_receipt.xml"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/menu_bottom_nav_view.xml.flat",
+        "source": "com.example.uts.app-main-83:/menu/bottom_nav_view.xml"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.uts.app-main-83:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.uts.app-main-83:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/drawable_baseline_settings_24.xml.flat",
+        "source": "com.example.uts.app-main-83:/drawable/baseline_settings_24.xml"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.uts.app-main-83:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.uts.app-main-83:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/layout_fragment_blank.xml.flat",
+        "source": "com.example.uts.app-main-83:/layout/fragment_blank.xml"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.uts.app-main-83:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/drawable_baseline_person_24.xml.flat",
+        "source": "com.example.uts.app-main-83:/drawable/baseline_person_24.xml"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/drawable_baseline_favorite_red_24.xml.flat",
+        "source": "com.example.uts.app-main-83:/drawable/baseline_favorite_red_24.xml"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.uts.app-main-83:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.uts.app-main-83:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/drawable_outline2.xml.flat",
+        "source": "com.example.uts.app-main-83:/drawable/outline2.xml"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/drawable_resep4.png.flat",
+        "source": "com.example.uts.app-main-83:/drawable/resep4.png"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.uts.app-main-83:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/drawable_baseline_delete_24.xml.flat",
+        "source": "com.example.uts.app-main-83:/drawable/baseline_delete_24.xml"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.uts.app-main-83:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/drawable_resep2.webp.flat",
+        "source": "com.example.uts.app-main-83:/drawable/resep2.webp"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/drawable_onlycook.png.flat",
+        "source": "com.example.uts.app-main-83:/drawable/onlycook.png"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.uts.app-main-83:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/xml_backup_rules.xml.flat",
+        "source": "com.example.uts.app-main-83:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/font_poppins.ttf.flat",
+        "source": "com.example.uts.app-main-83:/font/poppins.ttf"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/drawable_resep3.png.flat",
+        "source": "com.example.uts.app-main-83:/drawable/resep3.png"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/drawable_outline_background.xml.flat",
+        "source": "com.example.uts.app-main-83:/drawable/outline_background.xml"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/drawable_bg_button.xml.flat",
+        "source": "com.example.uts.app-main-83:/drawable/bg_button.xml"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/drawable_edit_svg.xml.flat",
+        "source": "com.example.uts.app-main-83:/drawable/edit_svg.xml"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/drawable_baseline_arrow_back_24.xml.flat",
+        "source": "com.example.uts.app-main-83:/drawable/baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/drawable_baseline_home_24.xml.flat",
+        "source": "com.example.uts.app-main-83:/drawable/baseline_home_24.xml"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.uts.app-main-83:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/layout_activity_home.xml.flat",
+        "source": "com.example.uts.app-main-83:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/layout_fragment_favorite.xml.flat",
+        "source": "com.example.uts.app-main-83:/layout/fragment_favorite.xml"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/drawable_cook_pain.xml.flat",
+        "source": "com.example.uts.app-main-83:/drawable/cook_pain.xml"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/layout_activity_edit_receipt.xml.flat",
+        "source": "com.example.uts.app-main-83:/layout/activity_edit_receipt.xml"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/drawable_cook2.jpg.flat",
+        "source": "com.example.uts.app-main-83:/drawable/cook2.jpg"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/drawable_baseline_receipt_long_24.xml.flat",
+        "source": "com.example.uts.app-main-83:/drawable/baseline_receipt_long_24.xml"
+    },
+    {
+        "merged": "com.example.uts.app-merged_res-82:/layout_activity_register.xml.flat",
+        "source": "com.example.uts.app-main-83:/layout/activity_register.xml"
+    }
+]

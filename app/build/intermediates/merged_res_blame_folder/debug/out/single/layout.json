@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "com.example.uts.app-mergeDebugResources-85:/layout/item_receipt.xml",
+        "source": "com.example.uts.app-main-88:/layout/item_receipt.xml"
+    },
+    {
+        "merged": "com.example.uts.app-mergeDebugResources-85:/layout/activity_register.xml",
+        "source": "com.example.uts.app-main-88:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.uts.app-mergeDebugResources-85:/layout/activity_add_receipt.xml",
+        "source": "com.example.uts.app-main-88:/layout/activity_add_receipt.xml"
+    },
+    {
+        "merged": "com.example.uts.app-mergeDebugResources-85:/layout/activity_home.xml",
+        "source": "com.example.uts.app-main-88:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.example.uts.app-mergeDebugResources-85:/layout/fragment_favorite.xml",
+        "source": "com.example.uts.app-main-88:/layout/fragment_favorite.xml"
+    },
+    {
+        "merged": "com.example.uts.app-mergeDebugResources-85:/layout/fragment_receipt.xml",
+        "source": "com.example.uts.app-main-88:/layout/fragment_receipt.xml"
+    },
+    {
+        "merged": "com.example.uts.app-mergeDebugResources-85:/layout/activity_edit_receipt.xml",
+        "source": "com.example.uts.app-main-88:/layout/activity_edit_receipt.xml"
+    },
+    {
+        "merged": "com.example.uts.app-mergeDebugResources-85:/layout/fragment_blank.xml",
+        "source": "com.example.uts.app-main-88:/layout/fragment_blank.xml"
+    },
+    {
+        "merged": "com.example.uts.app-mergeDebugResources-85:/layout/activity_login.xml",
+        "source": "com.example.uts.app-main-88:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.uts.app-mergeDebugResources-85:/layout/fragment_profile.xml",
+        "source": "com.example.uts.app-main-88:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.example.uts.app-mergeDebugResources-85:/layout/fragment_my_receipt.xml",
+        "source": "com.example.uts.app-main-88:/layout/fragment_my_receipt.xml"
+    },
+    {
+        "merged": "com.example.uts.app-mergeDebugResources-85:/layout/activity_detail_receipt.xml",
+        "source": "com.example.uts.app-main-88:/layout/activity_detail_receipt.xml"
+    },
+    {
+        "merged": "com.example.uts.app-mergeDebugResources-85:/layout/item_my_receipt.xml",
+        "source": "com.example.uts.app-main-88:/layout/item_my_receipt.xml"
+    }
+]

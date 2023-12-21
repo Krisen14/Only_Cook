@@ -1,0 +1,1264 @@
+-- Merging decision tree log ---
+provider#androidx.core.content.FileProvider
+INJECTED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:61:9-69:20
+	android:grantUriPermissions
+		ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:65:13-47
+	android:authorities
+		INJECTED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:63:13-64
+	android:exported
+		ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:64:13-37
+	android:name
+		ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:62:13-62
+manifest
+ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:2:1-86:12
+INJECTED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:2:1-86:12
+INJECTED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:2:1-86:12
+INJECTED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:2:1-86:12
+MERGED from [androidx.databinding:viewbinding:8.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\7b1281fac3701180d641f6f6c48fe044\transformed\viewbinding-8.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:2:1-109:12
+MERGED from [com.google.firebase:firebase-storage-ktx:20.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\b3a6367f79ed8464019c0944465fd029\transformed\firebase-storage-ktx-20.3.0\AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\b8ea54dd565237673961fb089ddf4281\transformed\firebase-auth-22.3.0\AndroidManifest.xml:17:1-75:12
+MERGED from [com.google.firebase:firebase-firestore:24.9.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5056674188a1e25e28f1d7be2a89f897\transformed\firebase-firestore-24.9.1\AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.firebase:firebase-database:20.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\49dc63584efa0379198e0c10b58d1301\transformed\firebase-database-20.3.0\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-analytics:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\0839493871b29c0bad32fc2ebf922f33\transformed\firebase-analytics-21.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\1662677f7fb9de612507a38c70da3324\transformed\play-services-measurement-api-21.5.0\AndroidManifest.xml:17:1-43:12
+MERGED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\2293315088177bb95a66a1abb40dd9ec\transformed\firebase-storage-20.3.0\AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.firebase:firebase-installations:17.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5f164f011aa807a89f5e5465a4cbd3f6\transformed\firebase-installations-17.2.0\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-appcheck:17.1.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\f8e9abe8499f7c664f86e349e62f0736\transformed\firebase-appcheck-17.1.1\AndroidManifest.xml:15:1-34:12
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\e2c6f70443113d4990a25e470a05ad41\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:2:1-18:12
+MERGED from [androidx.navigation:navigation-common:2.7.5] C:\Users\TUFF DASH\.gradle\caches\transforms-3\20814edc165203ca78683a309fd13451\transformed\navigation-common-2.7.5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.7.5] C:\Users\TUFF DASH\.gradle\caches\transforms-3\00a89bb79b85eb1c1efe7480d57ef982\transformed\navigation-runtime-2.7.5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.5] C:\Users\TUFF DASH\.gradle\caches\transforms-3\26d34f8a09e8d6987da6712212a25d5c\transformed\navigation-common-ktx-2.7.5\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-fragment:2.7.5] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5539af11d9fc649c9476deff8d108be5\transformed\navigation-fragment-2.7.5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-compose:2.7.5] C:\Users\TUFF DASH\.gradle\caches\transforms-3\16691f7a4cd553861d972dff9a2b6376\transformed\navigation-compose-2.7.5\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.5] C:\Users\TUFF DASH\.gradle\caches\transforms-3\47f704e138d058e1a68f9d730308bfe9\transformed\navigation-runtime-ktx-2.7.5\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.7.5] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5bf90b69a741e8690dad2b83526c3390\transformed\navigation-fragment-ktx-2.7.5\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.7.5] C:\Users\TUFF DASH\.gradle\caches\transforms-3\6f8494d88b1a6fc099652d24cb02b42b\transformed\navigation-ui-ktx-2.7.5\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-ui:2.7.5] C:\Users\TUFF DASH\.gradle\caches\transforms-3\64641acbe6d47abb7a25131a23612902\transformed\navigation-ui-2.7.5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.8.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\ff596b8339468670602da5c66332c281\transformed\material-1.8.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\TUFF DASH\.gradle\caches\transforms-3\890395de15af3b284f0c3591b250fbe7\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\b0106d75f68d4f64cb32df0a57d4564e\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.6.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\e98c4cc38f12298d1b5fe9e8974abfcc\transformed\library-1.6.1\AndroidManifest.xml:6:1-15:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\c09c6b757dc88b4e59de1a94a6b15354\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\967d9420dd716bc87dab1e53a5d7e273\transformed\play-services-auth-20.7.0\AndroidManifest.xml:17:1-40:12
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\1ab078b1d8d3159514c66f40ad875966\transformed\glide-4.16.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\ab8691024e0cfe514425c3adfe5fc274\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\851a5918bd810c9e0b3f6e511feda227\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\81be54faed738f44f36185ba2879c79b\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\8b744fc4f464f2d7d247d129c8d1067f\transformed\play-services-auth-api-phone-18.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\TUFF DASH\.gradle\caches\transforms-3\44aad8974e14c2a62abb3f4850c4ba63\transformed\play-services-auth-base-18.0.4\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\31b04c340f557dddf503d26ab872180b\transformed\play-services-fido-20.0.1\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-measurement:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5d49afcde2167bd2c91da650040686a6\transformed\play-services-measurement-21.5.0\AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\e02556b660e55ddf5eede1326edd7812\transformed\play-services-measurement-sdk-21.5.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\baf1955d008937f1f2e71d367c07ed80\transformed\recaptcha-18.1.2\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.play:integrity:1.1.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\95e1a0dd69bb8b8d2457da8f468c483f\transformed\integrity-1.1.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\656057ec7330eef60fc6dbc75f698c21\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\2d64209c6db8d33425f82c88e6f9faf9\transformed\firebase-common-20.4.2\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\bc0a3c626275f20b22808c6245a54922\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\f683d90ff3c5d0540ecc99e31cf9436d\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\b35d0f92e992f8e8b3e83d9079eb4998\transformed\play-services-base-18.1.0\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\7d719fceeb08fe64562aad205b3dea4a\transformed\firebase-installations-interop-17.1.1\AndroidManifest.xml:15:1-19:12
+MERGED from [androidx.compose.material3:material3:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\2358c42f7c980e8c9516ab327b2dfde4\transformed\material3-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\3a1232267dae4d550c015043f5473f75\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\9e0558009d4aedf2ee382c082c57684e\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\d89dea83dcbac986e6d571574ff282d1\transformed\play-services-measurement-impl-21.5.0\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5b28bf4bcef9a40d3bcbaf5f50d8aa6e\transformed\play-services-stats-17.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5198b8a0d58cbf00c0cb738e1f293fc4\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\2fdc33047c4956b374fb5e86dc5087e5\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\0349ee1b049de495642c348170621a22\transformed\lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\a554fa8bb45ec9d53cd3d6349b13950f\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.6.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\6946f1df4aea162f17c1fce23e8bb166\transformed\lifecycle-service-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\be333188631c6d33f9e6e4473ba21ceb\transformed\lifecycle-viewmodel-compose-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\4957d114189b6927f522de0e5287d938\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\72fc1647e7ad81314ea520cd5b699656\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\14525a330c9719e696eaa094cf7ae9ca\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.animation:animation-core-android:1.5.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\0f23bd91de097a9847373abc0bcc7d07\transformed\animation-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.5.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\745d4e334c1780761f8267159583d3dc\transformed\animation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\119d4e87f168a7befe7316bc9bba4b72\transformed\foundation-layout-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\0491f3ede9733bdcbbab374f94a5352c\transformed\ui-tooling-data-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\c68f2ce545b43c42e80ed045b8081a5b\transformed\ui-tooling-preview-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\1f950520048f3d746796e267fcb70acb\transformed\ui-unit-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.5.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\79bb72ea780af466634b69bf95982058\transformed\ui-text-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\883f56b83de1ef3105d992e87aa4e5db\transformed\ui-graphics-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\e1ac61d65609942207799eba571f1058\transformed\ui-geometry-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.5.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\4fe6e942ce045aebd2c9f15bbbc90953\transformed\ui-util-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\dd01fab2e71760a93937a57d0fbda75e\transformed\ui-test-manifest-1.5.1\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\dbe30d92a65cd822928de3fb3aeafbc5\transformed\ui-tooling-release\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.material:material:1.4.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\8f4b71a4473c000a238ce82dde09fc52\transformed\material-1.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-icons-core:1.4.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\35227f8de3bc81380850ab26bf854719\transformed\material-icons-core-1.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-ripple:1.4.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\54f644f5bf4174ecfd9b070d9096d6d1\transformed\material-ripple-1.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.foundation:foundation-android:1.5.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\fbf37b4e97e07e916225cf122b8db4b1\transformed\foundation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.4.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\9b679b6827c9fc0c90038f7af266cce2\transformed\emoji2-views-helper-1.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\4c9b84523ee566fc474035c503cb2045\transformed\emoji2-1.4.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\1cc69baa05ee22a7b5167a143c89dfed\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\017be1ed98d16451ae72aa2809e86615\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\e33a455ffc82d5213001f67140b88064\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\a0c4c69815fdf0a4fced7d5725c72967\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\528c0c7914269f41a301403e68ef52f7\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\a13dcc0f62279c73cace04604e806f81\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\477797b4b49c2b5eb62f7e5c79ab6c93\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\4fa2b66d6b81d9a8138f91c7c5248f5a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\f6adb375358a5977a379a69810a0d8f4\transformed\browser-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\3fc67bdf07aa4b5949e15bbc2c2be4d3\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\6bf6962d6ffe2ec2fba0cb3d5d889d89\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\1cc232dbcbea55a2f9bbdb0bb5edcc82\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\b6bd0bb2826330fdd07b357be716bfe1\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\d53e33182fae0a8512e699bc94cb0780\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\9e1355f1ceb0edf93893b2c919e6ddf4\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\ab9697f5390b9b7d06d28538010c73a2\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\b6778131725850802ec11462f20e8bf7\transformed\transition-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\ec7685da190a7275dbe8fbb52e59bff9\transformed\window-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\ee617cc872727b9ff7328f95eced2bf0\transformed\autofill-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] C:\Users\TUFF DASH\.gradle\caches\transforms-3\cd0dc6cb306730be45b48755e782735d\transformed\ads-adservices-java-1.0.0-beta05\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\TUFF DASH\.gradle\caches\transforms-3\6c1b0c3e42b1758de3148b7490954500\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\c8ee582787badd56e0d190dfb8477df0\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.10.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\761a9980d70523e13b39453be2c35d81\transformed\core-ktx-1.10.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core:1.10.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\3487d8ef9d412e425dc20b357b6ddf07\transformed\core-1.10.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\29ce3746a8404a8c2d60c215f689d1e1\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\66ac63c1f78e76291c9b440e1c963e31\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\b42c698d0242718532f02063458f9ce5\transformed\runtime-saveable-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.5.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\f44cfd588a6ac70aee6be4b858df7e9a\transformed\runtime-release\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\3ad749d5d1cef2b0291a56caac6c8e6b\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\f764a4bc5ea544340bfb920227636306\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\f04bc3aa1e37bfee2a4085916913cfdc\transformed\play-services-measurement-sdk-api-21.5.0\AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-measurement-base:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\85d738ca117527a13a114508ff04c743\transformed\play-services-measurement-base-21.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\a001f461bf0159d7beec5aada6121304\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\e07cbe5d09c48d074ffd297c83773686\transformed\play-services-basement-18.2.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.6.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\e6550fe58e8086a912dae496f73ad183\transformed\fragment-1.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\b545713ab401980959e494e4987b6fad\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.8.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\af82fd838e1071666d851e7dafe33b9a\transformed\activity-ktx-1.8.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.8.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\c6e0b84133041d8f614198365dab1518\transformed\activity-1.8.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-compose:1.8.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5e93b0d3e8aaeefba62aa8be7444f031\transformed\activity-compose-1.8.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.5.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\f6565f43a5a0a7d224bd16d821f75350\transformed\ui-release\AndroidManifest.xml:2:1-7:12
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\14b2f2304d897c6a715e56e13cfce7f8\transformed\circleimageview-3.1.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\8f9ee3bf1d805dcf5625d2e8903d9ccd\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5848cb5327a07b94640dd711823c881f\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\8d47b60f302bdec788d1f7349ca0234e\transformed\gifdecoder-4.16.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\TUFF DASH\.gradle\caches\transforms-3\79d45b68b65b3599b9af64ec5263a453\transformed\exifinterface-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\d601945f025f0894f454a1eb8c97d893\transformed\profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\ef1bf77c90813afedd607d113229c149\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\8fd0bca8bee1558cc700eede98017e8d\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-components:17.1.5] C:\Users\TUFF DASH\.gradle\caches\transforms-3\4c61b5bdbb1898997adb9c793f7ed9df\transformed\firebase-components-17.1.5\AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\ee19ebc2a245415ceb79f548875ce868\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5506a24a776319a2527b9b61121f0c14\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\9489e61a92dabb37f550e8f7f1eadafc\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\a2e8f6fa0602221bf6ba786ea8c4650f\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\f0a5e990e821f36d55bc21cf8657aa0e\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\1cd7f71b21774e28b8f344aa47b63046\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\8a12b982093624259d1d8bda9b3e4b1b\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [io.grpc:grpc-android:1.52.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\768475b1920fef6a48793358e18627b1\transformed\grpc-android-1.52.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\4ea395e13e59c84090807b0a870d96de\transformed\protolite-well-known-types-18.0.0\AndroidManifest.xml:2:1-11:12
+	package
+		INJECTED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:13:5-67
+MERGED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:13:5-67
+MERGED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\b8ea54dd565237673961fb089ddf4281\transformed\firebase-auth-22.3.0\AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\b8ea54dd565237673961fb089ddf4281\transformed\firebase-auth-22.3.0\AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-firestore:24.9.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5056674188a1e25e28f1d7be2a89f897\transformed\firebase-firestore-24.9.1\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-firestore:24.9.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5056674188a1e25e28f1d7be2a89f897\transformed\firebase-firestore-24.9.1\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-database:20.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\49dc63584efa0379198e0c10b58d1301\transformed\firebase-database-20.3.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-database:20.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\49dc63584efa0379198e0c10b58d1301\transformed\firebase-database-20.3.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\1662677f7fb9de612507a38c70da3324\transformed\play-services-measurement-api-21.5.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\1662677f7fb9de612507a38c70da3324\transformed\play-services-measurement-api-21.5.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\2293315088177bb95a66a1abb40dd9ec\transformed\firebase-storage-20.3.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\2293315088177bb95a66a1abb40dd9ec\transformed\firebase-storage-20.3.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-installations:17.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5f164f011aa807a89f5e5465a4cbd3f6\transformed\firebase-installations-17.2.0\AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-installations:17.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5f164f011aa807a89f5e5465a4cbd3f6\transformed\firebase-installations-17.2.0\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-measurement:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5d49afcde2167bd2c91da650040686a6\transformed\play-services-measurement-21.5.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5d49afcde2167bd2c91da650040686a6\transformed\play-services-measurement-21.5.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\baf1955d008937f1f2e71d367c07ed80\transformed\recaptcha-18.1.2\AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\baf1955d008937f1f2e71d367c07ed80\transformed\recaptcha-18.1.2\AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\d89dea83dcbac986e6d571574ff282d1\transformed\play-services-measurement-impl-21.5.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\d89dea83dcbac986e6d571574ff282d1\transformed\play-services-measurement-impl-21.5.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\f04bc3aa1e37bfee2a4085916913cfdc\transformed\play-services-measurement-sdk-api-21.5.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\f04bc3aa1e37bfee2a4085916913cfdc\transformed\play-services-measurement-sdk-api-21.5.0\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:5:22-64
+uses-feature#android.hardware.camera
+ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:7:5-60
+	android:name
+		ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:7:19-57
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:9:5-11:38
+	android:maxSdkVersion
+		ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:11:9-35
+	android:name
+		ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:10:9-64
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:12:5-65
+	android:name
+		ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:12:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:13:5-15:38
+	android:maxSdkVersion
+		ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:15:9-35
+	android:name
+		ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:14:9-65
+application
+ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:17:5-84:19
+INJECTED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:17:5-84:19
+MERGED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:15:5-107:19
+MERGED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:15:5-107:19
+MERGED from [com.google.firebase:firebase-storage-ktx:20.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\b3a6367f79ed8464019c0944465fd029\transformed\firebase-storage-ktx-20.3.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-storage-ktx:20.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\b3a6367f79ed8464019c0944465fd029\transformed\firebase-storage-ktx-20.3.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\b8ea54dd565237673961fb089ddf4281\transformed\firebase-auth-22.3.0\AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\b8ea54dd565237673961fb089ddf4281\transformed\firebase-auth-22.3.0\AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-firestore:24.9.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5056674188a1e25e28f1d7be2a89f897\transformed\firebase-firestore-24.9.1\AndroidManifest.xml:13:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:24.9.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5056674188a1e25e28f1d7be2a89f897\transformed\firebase-firestore-24.9.1\AndroidManifest.xml:13:5-24:19
+MERGED from [com.google.firebase:firebase-database:20.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\49dc63584efa0379198e0c10b58d1301\transformed\firebase-database-20.3.0\AndroidManifest.xml:25:5-36:19
+MERGED from [com.google.firebase:firebase-database:20.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\49dc63584efa0379198e0c10b58d1301\transformed\firebase-database-20.3.0\AndroidManifest.xml:25:5-36:19
+MERGED from [com.google.firebase:firebase-analytics:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\0839493871b29c0bad32fc2ebf922f33\transformed\firebase-analytics-21.5.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\0839493871b29c0bad32fc2ebf922f33\transformed\firebase-analytics-21.5.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\1662677f7fb9de612507a38c70da3324\transformed\play-services-measurement-api-21.5.0\AndroidManifest.xml:29:5-41:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\1662677f7fb9de612507a38c70da3324\transformed\play-services-measurement-api-21.5.0\AndroidManifest.xml:29:5-41:19
+MERGED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\2293315088177bb95a66a1abb40dd9ec\transformed\firebase-storage-20.3.0\AndroidManifest.xml:26:5-37:19
+MERGED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\2293315088177bb95a66a1abb40dd9ec\transformed\firebase-storage-20.3.0\AndroidManifest.xml:26:5-37:19
+MERGED from [com.google.firebase:firebase-installations:17.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5f164f011aa807a89f5e5465a4cbd3f6\transformed\firebase-installations-17.2.0\AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-installations:17.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5f164f011aa807a89f5e5465a4cbd3f6\transformed\firebase-installations-17.2.0\AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-appcheck:17.1.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\f8e9abe8499f7c664f86e349e62f0736\transformed\firebase-appcheck-17.1.1\AndroidManifest.xml:21:5-32:19
+MERGED from [com.google.firebase:firebase-appcheck:17.1.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\f8e9abe8499f7c664f86e349e62f0736\transformed\firebase-appcheck-17.1.1\AndroidManifest.xml:21:5-32:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\e2c6f70443113d4990a25e470a05ad41\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\e2c6f70443113d4990a25e470a05ad41\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.android.material:material:1.8.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\ff596b8339468670602da5c66332c281\transformed\material-1.8.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.8.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\ff596b8339468670602da5c66332c281\transformed\material-1.8.0\AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\TUFF DASH\.gradle\caches\transforms-3\890395de15af3b284f0c3591b250fbe7\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\TUFF DASH\.gradle\caches\transforms-3\890395de15af3b284f0c3591b250fbe7\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\967d9420dd716bc87dab1e53a5d7e273\transformed\play-services-auth-20.7.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\967d9420dd716bc87dab1e53a5d7e273\transformed\play-services-auth-20.7.0\AndroidManifest.xml:22:5-38:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\851a5918bd810c9e0b3f6e511feda227\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\851a5918bd810c9e0b3f6e511feda227\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\31b04c340f557dddf503d26ab872180b\transformed\play-services-fido-20.0.1\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\31b04c340f557dddf503d26ab872180b\transformed\play-services-fido-20.0.1\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-measurement:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5d49afcde2167bd2c91da650040686a6\transformed\play-services-measurement-21.5.0\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5d49afcde2167bd2c91da650040686a6\transformed\play-services-measurement-21.5.0\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\e02556b660e55ddf5eede1326edd7812\transformed\play-services-measurement-sdk-21.5.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\e02556b660e55ddf5eede1326edd7812\transformed\play-services-measurement-sdk-21.5.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.play:integrity:1.1.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\95e1a0dd69bb8b8d2457da8f468c483f\transformed\integrity-1.1.0\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.play:integrity:1.1.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\95e1a0dd69bb8b8d2457da8f468c483f\transformed\integrity-1.1.0\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\656057ec7330eef60fc6dbc75f698c21\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\656057ec7330eef60fc6dbc75f698c21\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\2d64209c6db8d33425f82c88e6f9faf9\transformed\firebase-common-20.4.2\AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\2d64209c6db8d33425f82c88e6f9faf9\transformed\firebase-common-20.4.2\AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\bc0a3c626275f20b22808c6245a54922\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:21:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\bc0a3c626275f20b22808c6245a54922\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:21:5-20
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\b35d0f92e992f8e8b3e83d9079eb4998\transformed\play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\b35d0f92e992f8e8b3e83d9079eb4998\transformed\play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\d89dea83dcbac986e6d571574ff282d1\transformed\play-services-measurement-impl-21.5.0\AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\d89dea83dcbac986e6d571574ff282d1\transformed\play-services-measurement-impl-21.5.0\AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5b28bf4bcef9a40d3bcbaf5f50d8aa6e\transformed\play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5b28bf4bcef9a40d3bcbaf5f50d8aa6e\transformed\play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\dd01fab2e71760a93937a57d0fbda75e\transformed\ui-test-manifest-1.5.1\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\dd01fab2e71760a93937a57d0fbda75e\transformed\ui-test-manifest-1.5.1\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\dbe30d92a65cd822928de3fb3aeafbc5\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\dbe30d92a65cd822928de3fb3aeafbc5\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\4c9b84523ee566fc474035c503cb2045\transformed\emoji2-1.4.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\4c9b84523ee566fc474035c503cb2045\transformed\emoji2-1.4.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\1cc69baa05ee22a7b5167a143c89dfed\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\1cc69baa05ee22a7b5167a143c89dfed\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\ec7685da190a7275dbe8fbb52e59bff9\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\ec7685da190a7275dbe8fbb52e59bff9\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\TUFF DASH\.gradle\caches\transforms-3\6c1b0c3e42b1758de3148b7490954500\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\TUFF DASH\.gradle\caches\transforms-3\6c1b0c3e42b1758de3148b7490954500\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.10.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\3487d8ef9d412e425dc20b357b6ddf07\transformed\core-1.10.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.10.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\3487d8ef9d412e425dc20b357b6ddf07\transformed\core-1.10.0\AndroidManifest.xml:28:5-89
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\3ad749d5d1cef2b0291a56caac6c8e6b\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\3ad749d5d1cef2b0291a56caac6c8e6b\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\f764a4bc5ea544340bfb920227636306\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\f764a4bc5ea544340bfb920227636306\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\85d738ca117527a13a114508ff04c743\transformed\play-services-measurement-base-21.5.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\85d738ca117527a13a114508ff04c743\transformed\play-services-measurement-base-21.5.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\a001f461bf0159d7beec5aada6121304\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\a001f461bf0159d7beec5aada6121304\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\e07cbe5d09c48d074ffd297c83773686\transformed\play-services-basement-18.2.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\e07cbe5d09c48d074ffd297c83773686\transformed\play-services-basement-18.2.0\AndroidManifest.xml:20:5-24:19
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\14b2f2304d897c6a715e56e13cfce7f8\transformed\circleimageview-3.1.0\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\14b2f2304d897c6a715e56e13cfce7f8\transformed\circleimageview-3.1.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\d601945f025f0894f454a1eb8c97d893\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\d601945f025f0894f454a1eb8c97d893\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\ef1bf77c90813afedd607d113229c149\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\ef1bf77c90813afedd607d113229c149\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5506a24a776319a2527b9b61121f0c14\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5506a24a776319a2527b9b61121f0c14\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.10.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\3487d8ef9d412e425dc20b357b6ddf07\transformed\core-1.10.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:24:9-35
+	android:label
+		ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:22:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:20:9-54
+	android:roundIcon
+		ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:23:9-54
+	tools:targetApi
+		ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:26:9-29
+	android:icon
+		ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:21:9-43
+	android:allowBackup
+		ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:25:9-41
+	android:dataExtractionRules
+		ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:19:9-65
+activity#com.example.uts.ui.activity.EditReceiptActivity
+ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:27:9-29:40
+	android:exported
+		ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:28:13-60
+activity#com.example.uts.ui.activity.DetailReceiptActivity
+ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:30:9-32:40
+	android:exported
+		ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:31:13-62
+activity#com.example.uts.ui.compose.AboutActivity
+ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:33:9-37:48
+	android:label
+		ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:36:13-57
+	android:exported
+		ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:35:13-37
+	android:theme
+		ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:37:13-45
+	android:name
+		ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:34:13-53
+activity#com.example.uts.ui.activity.AddReceiptActivity
+ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:38:9-40:40
+	android:exported
+		ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:40:13-37
+	android:name
+		ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:39:13-59
+activity#com.example.uts.ui.activity.RegisterActivity
+ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:41:9-43:40
+	android:exported
+		ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:43:13-37
+	android:name
+		ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:42:13-57
+activity#com.example.uts.ui.activity.LoginActivity
+ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:44:9-52:20
+	android:exported
+		ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:46:13-36
+	android:name
+		ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:45:13-54
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:47:13-51:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:48:17-69
+	android:name
+		ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:48:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:50:17-77
+	android:name
+		ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:50:27-74
+activity#com.example.uts.ui.activity.HomeActivity
+ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:53:9-55:40
+	android:exported
+		ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:55:13-37
+	android:name
+		ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:54:13-53
+meta-data#preloaded_fonts
+ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:57:9-59:57
+	android:resource
+		ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:59:13-54
+	android:name
+		ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:58:13-43
+service#com.google.android.gms.metadata.ModuleDependencies
+ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:71:9-83:19
+	android:enabled
+		ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:73:13-36
+	android:exported
+		ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:74:13-37
+	tools:ignore
+		ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:75:13-40
+	android:name
+		ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:72:13-78
+intent-filter#action:name:com.google.android.gms.metadata.MODULE_DEPENDENCIES
+ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:76:13-78:29
+action#com.google.android.gms.metadata.MODULE_DEPENDENCIES
+ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:77:17-94
+	android:name
+		ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:77:25-91
+meta-data#photopicker_activity:0:required
+ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:80:13-82:36
+	android:value
+		ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:82:17-33
+	android:name
+		ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:81:17-63
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:66:13-68:54
+	android:resource
+		ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:68:17-51
+	android:name
+		ADDED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml:67:17-67
+uses-sdk
+INJECTED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\7b1281fac3701180d641f6f6c48fe044\transformed\viewbinding-8.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\7b1281fac3701180d641f6f6c48fe044\transformed\viewbinding-8.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:8:5-10:41
+MERGED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.firebase:firebase-storage-ktx:20.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\b3a6367f79ed8464019c0944465fd029\transformed\firebase-storage-ktx-20.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-storage-ktx:20.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\b3a6367f79ed8464019c0944465fd029\transformed\firebase-storage-ktx-20.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\b8ea54dd565237673961fb089ddf4281\transformed\firebase-auth-22.3.0\AndroidManifest.xml:21:5-23:64
+MERGED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\b8ea54dd565237673961fb089ddf4281\transformed\firebase-auth-22.3.0\AndroidManifest.xml:21:5-23:64
+MERGED from [com.google.firebase:firebase-firestore:24.9.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5056674188a1e25e28f1d7be2a89f897\transformed\firebase-firestore-24.9.1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-firestore:24.9.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5056674188a1e25e28f1d7be2a89f897\transformed\firebase-firestore-24.9.1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database:20.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\49dc63584efa0379198e0c10b58d1301\transformed\firebase-database-20.3.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-database:20.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\49dc63584efa0379198e0c10b58d1301\transformed\firebase-database-20.3.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-analytics:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\0839493871b29c0bad32fc2ebf922f33\transformed\firebase-analytics-21.5.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\0839493871b29c0bad32fc2ebf922f33\transformed\firebase-analytics-21.5.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\1662677f7fb9de612507a38c70da3324\transformed\play-services-measurement-api-21.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\1662677f7fb9de612507a38c70da3324\transformed\play-services-measurement-api-21.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\2293315088177bb95a66a1abb40dd9ec\transformed\firebase-storage-20.3.0\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\2293315088177bb95a66a1abb40dd9ec\transformed\firebase-storage-20.3.0\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-installations:17.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5f164f011aa807a89f5e5465a4cbd3f6\transformed\firebase-installations-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:17.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5f164f011aa807a89f5e5465a4cbd3f6\transformed\firebase-installations-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-appcheck:17.1.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\f8e9abe8499f7c664f86e349e62f0736\transformed\firebase-appcheck-17.1.1\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-appcheck:17.1.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\f8e9abe8499f7c664f86e349e62f0736\transformed\firebase-appcheck-17.1.1\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\e2c6f70443113d4990a25e470a05ad41\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\e2c6f70443113d4990a25e470a05ad41\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common:2.7.5] C:\Users\TUFF DASH\.gradle\caches\transforms-3\20814edc165203ca78683a309fd13451\transformed\navigation-common-2.7.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.7.5] C:\Users\TUFF DASH\.gradle\caches\transforms-3\20814edc165203ca78683a309fd13451\transformed\navigation-common-2.7.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.5] C:\Users\TUFF DASH\.gradle\caches\transforms-3\00a89bb79b85eb1c1efe7480d57ef982\transformed\navigation-runtime-2.7.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.5] C:\Users\TUFF DASH\.gradle\caches\transforms-3\00a89bb79b85eb1c1efe7480d57ef982\transformed\navigation-runtime-2.7.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.5] C:\Users\TUFF DASH\.gradle\caches\transforms-3\26d34f8a09e8d6987da6712212a25d5c\transformed\navigation-common-ktx-2.7.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.5] C:\Users\TUFF DASH\.gradle\caches\transforms-3\26d34f8a09e8d6987da6712212a25d5c\transformed\navigation-common-ktx-2.7.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.7.5] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5539af11d9fc649c9476deff8d108be5\transformed\navigation-fragment-2.7.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.7.5] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5539af11d9fc649c9476deff8d108be5\transformed\navigation-fragment-2.7.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-compose:2.7.5] C:\Users\TUFF DASH\.gradle\caches\transforms-3\16691f7a4cd553861d972dff9a2b6376\transformed\navigation-compose-2.7.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.7.5] C:\Users\TUFF DASH\.gradle\caches\transforms-3\16691f7a4cd553861d972dff9a2b6376\transformed\navigation-compose-2.7.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.5] C:\Users\TUFF DASH\.gradle\caches\transforms-3\47f704e138d058e1a68f9d730308bfe9\transformed\navigation-runtime-ktx-2.7.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.5] C:\Users\TUFF DASH\.gradle\caches\transforms-3\47f704e138d058e1a68f9d730308bfe9\transformed\navigation-runtime-ktx-2.7.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.7.5] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5bf90b69a741e8690dad2b83526c3390\transformed\navigation-fragment-ktx-2.7.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.7.5] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5bf90b69a741e8690dad2b83526c3390\transformed\navigation-fragment-ktx-2.7.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.7.5] C:\Users\TUFF DASH\.gradle\caches\transforms-3\6f8494d88b1a6fc099652d24cb02b42b\transformed\navigation-ui-ktx-2.7.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.7.5] C:\Users\TUFF DASH\.gradle\caches\transforms-3\6f8494d88b1a6fc099652d24cb02b42b\transformed\navigation-ui-ktx-2.7.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui:2.7.5] C:\Users\TUFF DASH\.gradle\caches\transforms-3\64641acbe6d47abb7a25131a23612902\transformed\navigation-ui-2.7.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.7.5] C:\Users\TUFF DASH\.gradle\caches\transforms-3\64641acbe6d47abb7a25131a23612902\transformed\navigation-ui-2.7.5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.8.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\ff596b8339468670602da5c66332c281\transformed\material-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.8.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\ff596b8339468670602da5c66332c281\transformed\material-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\TUFF DASH\.gradle\caches\transforms-3\890395de15af3b284f0c3591b250fbe7\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\TUFF DASH\.gradle\caches\transforms-3\890395de15af3b284f0c3591b250fbe7\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\b0106d75f68d4f64cb32df0a57d4564e\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\b0106d75f68d4f64cb32df0a57d4564e\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.6.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\e98c4cc38f12298d1b5fe9e8974abfcc\transformed\library-1.6.1\AndroidManifest.xml:11:5-13:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.6.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\e98c4cc38f12298d1b5fe9e8974abfcc\transformed\library-1.6.1\AndroidManifest.xml:11:5-13:41
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\c09c6b757dc88b4e59de1a94a6b15354\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\c09c6b757dc88b4e59de1a94a6b15354\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\967d9420dd716bc87dab1e53a5d7e273\transformed\play-services-auth-20.7.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\967d9420dd716bc87dab1e53a5d7e273\transformed\play-services-auth-20.7.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\1ab078b1d8d3159514c66f40ad875966\transformed\glide-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\1ab078b1d8d3159514c66f40ad875966\transformed\glide-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\ab8691024e0cfe514425c3adfe5fc274\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\ab8691024e0cfe514425c3adfe5fc274\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\851a5918bd810c9e0b3f6e511feda227\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\851a5918bd810c9e0b3f6e511feda227\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\81be54faed738f44f36185ba2879c79b\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\81be54faed738f44f36185ba2879c79b\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\8b744fc4f464f2d7d247d129c8d1067f\transformed\play-services-auth-api-phone-18.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\8b744fc4f464f2d7d247d129c8d1067f\transformed\play-services-auth-api-phone-18.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\TUFF DASH\.gradle\caches\transforms-3\44aad8974e14c2a62abb3f4850c4ba63\transformed\play-services-auth-base-18.0.4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\TUFF DASH\.gradle\caches\transforms-3\44aad8974e14c2a62abb3f4850c4ba63\transformed\play-services-auth-base-18.0.4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\31b04c340f557dddf503d26ab872180b\transformed\play-services-fido-20.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\31b04c340f557dddf503d26ab872180b\transformed\play-services-fido-20.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5d49afcde2167bd2c91da650040686a6\transformed\play-services-measurement-21.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5d49afcde2167bd2c91da650040686a6\transformed\play-services-measurement-21.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\e02556b660e55ddf5eede1326edd7812\transformed\play-services-measurement-sdk-21.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\e02556b660e55ddf5eede1326edd7812\transformed\play-services-measurement-sdk-21.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\baf1955d008937f1f2e71d367c07ed80\transformed\recaptcha-18.1.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\baf1955d008937f1f2e71d367c07ed80\transformed\recaptcha-18.1.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.play:integrity:1.1.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\95e1a0dd69bb8b8d2457da8f468c483f\transformed\integrity-1.1.0\AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.play:integrity:1.1.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\95e1a0dd69bb8b8d2457da8f468c483f\transformed\integrity-1.1.0\AndroidManifest.xml:4:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\656057ec7330eef60fc6dbc75f698c21\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\656057ec7330eef60fc6dbc75f698c21\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\2d64209c6db8d33425f82c88e6f9faf9\transformed\firebase-common-20.4.2\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\2d64209c6db8d33425f82c88e6f9faf9\transformed\firebase-common-20.4.2\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\bc0a3c626275f20b22808c6245a54922\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\bc0a3c626275f20b22808c6245a54922\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\f683d90ff3c5d0540ecc99e31cf9436d\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\f683d90ff3c5d0540ecc99e31cf9436d\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\b35d0f92e992f8e8b3e83d9079eb4998\transformed\play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\b35d0f92e992f8e8b3e83d9079eb4998\transformed\play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\7d719fceeb08fe64562aad205b3dea4a\transformed\firebase-installations-interop-17.1.1\AndroidManifest.xml:17:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\7d719fceeb08fe64562aad205b3dea4a\transformed\firebase-installations-interop-17.1.1\AndroidManifest.xml:17:5-44
+MERGED from [androidx.compose.material3:material3:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\2358c42f7c980e8c9516ab327b2dfde4\transformed\material3-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\2358c42f7c980e8c9516ab327b2dfde4\transformed\material3-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\3a1232267dae4d550c015043f5473f75\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\3a1232267dae4d550c015043f5473f75\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\9e0558009d4aedf2ee382c082c57684e\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\9e0558009d4aedf2ee382c082c57684e\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\d89dea83dcbac986e6d571574ff282d1\transformed\play-services-measurement-impl-21.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\d89dea83dcbac986e6d571574ff282d1\transformed\play-services-measurement-impl-21.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5b28bf4bcef9a40d3bcbaf5f50d8aa6e\transformed\play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5b28bf4bcef9a40d3bcbaf5f50d8aa6e\transformed\play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5198b8a0d58cbf00c0cb738e1f293fc4\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5198b8a0d58cbf00c0cb738e1f293fc4\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\2fdc33047c4956b374fb5e86dc5087e5\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\2fdc33047c4956b374fb5e86dc5087e5\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\0349ee1b049de495642c348170621a22\transformed\lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\0349ee1b049de495642c348170621a22\transformed\lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\a554fa8bb45ec9d53cd3d6349b13950f\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\a554fa8bb45ec9d53cd3d6349b13950f\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.6.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\6946f1df4aea162f17c1fce23e8bb166\transformed\lifecycle-service-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.6.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\6946f1df4aea162f17c1fce23e8bb166\transformed\lifecycle-service-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\be333188631c6d33f9e6e4473ba21ceb\transformed\lifecycle-viewmodel-compose-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\be333188631c6d33f9e6e4473ba21ceb\transformed\lifecycle-viewmodel-compose-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\4957d114189b6927f522de0e5287d938\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\4957d114189b6927f522de0e5287d938\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\72fc1647e7ad81314ea520cd5b699656\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\72fc1647e7ad81314ea520cd5b699656\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\14525a330c9719e696eaa094cf7ae9ca\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\14525a330c9719e696eaa094cf7ae9ca\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.5.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\0f23bd91de097a9847373abc0bcc7d07\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.5.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\0f23bd91de097a9847373abc0bcc7d07\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.5.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\745d4e334c1780761f8267159583d3dc\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.5.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\745d4e334c1780761f8267159583d3dc\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\119d4e87f168a7befe7316bc9bba4b72\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\119d4e87f168a7befe7316bc9bba4b72\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\0491f3ede9733bdcbbab374f94a5352c\transformed\ui-tooling-data-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\0491f3ede9733bdcbbab374f94a5352c\transformed\ui-tooling-data-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\c68f2ce545b43c42e80ed045b8081a5b\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\c68f2ce545b43c42e80ed045b8081a5b\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\1f950520048f3d746796e267fcb70acb\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\1f950520048f3d746796e267fcb70acb\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.5.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\79bb72ea780af466634b69bf95982058\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.5.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\79bb72ea780af466634b69bf95982058\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\883f56b83de1ef3105d992e87aa4e5db\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\883f56b83de1ef3105d992e87aa4e5db\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\e1ac61d65609942207799eba571f1058\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\e1ac61d65609942207799eba571f1058\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.5.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\4fe6e942ce045aebd2c9f15bbbc90953\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.5.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\4fe6e942ce045aebd2c9f15bbbc90953\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\dd01fab2e71760a93937a57d0fbda75e\transformed\ui-test-manifest-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\dd01fab2e71760a93937a57d0fbda75e\transformed\ui-test-manifest-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\dbe30d92a65cd822928de3fb3aeafbc5\transformed\ui-tooling-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\dbe30d92a65cd822928de3fb3aeafbc5\transformed\ui-tooling-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material:1.4.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\8f4b71a4473c000a238ce82dde09fc52\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material:1.4.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\8f4b71a4473c000a238ce82dde09fc52\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-icons-core:1.4.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\35227f8de3bc81380850ab26bf854719\transformed\material-icons-core-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-icons-core:1.4.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\35227f8de3bc81380850ab26bf854719\transformed\material-icons-core-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-ripple:1.4.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\54f644f5bf4174ecfd9b070d9096d6d1\transformed\material-ripple-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-ripple:1.4.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\54f644f5bf4174ecfd9b070d9096d6d1\transformed\material-ripple-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.5.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\fbf37b4e97e07e916225cf122b8db4b1\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.5.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\fbf37b4e97e07e916225cf122b8db4b1\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.4.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\9b679b6827c9fc0c90038f7af266cce2\transformed\emoji2-views-helper-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.4.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\9b679b6827c9fc0c90038f7af266cce2\transformed\emoji2-views-helper-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\4c9b84523ee566fc474035c503cb2045\transformed\emoji2-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\4c9b84523ee566fc474035c503cb2045\transformed\emoji2-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\1cc69baa05ee22a7b5167a143c89dfed\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\1cc69baa05ee22a7b5167a143c89dfed\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\017be1ed98d16451ae72aa2809e86615\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\017be1ed98d16451ae72aa2809e86615\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\e33a455ffc82d5213001f67140b88064\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\e33a455ffc82d5213001f67140b88064\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\a0c4c69815fdf0a4fced7d5725c72967\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\a0c4c69815fdf0a4fced7d5725c72967\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\528c0c7914269f41a301403e68ef52f7\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\528c0c7914269f41a301403e68ef52f7\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\a13dcc0f62279c73cace04604e806f81\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\a13dcc0f62279c73cace04604e806f81\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\477797b4b49c2b5eb62f7e5c79ab6c93\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\477797b4b49c2b5eb62f7e5c79ab6c93\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\4fa2b66d6b81d9a8138f91c7c5248f5a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\4fa2b66d6b81d9a8138f91c7c5248f5a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\f6adb375358a5977a379a69810a0d8f4\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\f6adb375358a5977a379a69810a0d8f4\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\3fc67bdf07aa4b5949e15bbc2c2be4d3\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\3fc67bdf07aa4b5949e15bbc2c2be4d3\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\6bf6962d6ffe2ec2fba0cb3d5d889d89\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\6bf6962d6ffe2ec2fba0cb3d5d889d89\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\1cc232dbcbea55a2f9bbdb0bb5edcc82\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\1cc232dbcbea55a2f9bbdb0bb5edcc82\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\b6bd0bb2826330fdd07b357be716bfe1\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\b6bd0bb2826330fdd07b357be716bfe1\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\d53e33182fae0a8512e699bc94cb0780\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\d53e33182fae0a8512e699bc94cb0780\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\9e1355f1ceb0edf93893b2c919e6ddf4\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\9e1355f1ceb0edf93893b2c919e6ddf4\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\ab9697f5390b9b7d06d28538010c73a2\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\ab9697f5390b9b7d06d28538010c73a2\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\b6778131725850802ec11462f20e8bf7\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\b6778131725850802ec11462f20e8bf7\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\ec7685da190a7275dbe8fbb52e59bff9\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\ec7685da190a7275dbe8fbb52e59bff9\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\ee617cc872727b9ff7328f95eced2bf0\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\ee617cc872727b9ff7328f95eced2bf0\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] C:\Users\TUFF DASH\.gradle\caches\transforms-3\cd0dc6cb306730be45b48755e782735d\transformed\ads-adservices-java-1.0.0-beta05\AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] C:\Users\TUFF DASH\.gradle\caches\transforms-3\cd0dc6cb306730be45b48755e782735d\transformed\ads-adservices-java-1.0.0-beta05\AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\TUFF DASH\.gradle\caches\transforms-3\6c1b0c3e42b1758de3148b7490954500\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:20:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\TUFF DASH\.gradle\caches\transforms-3\6c1b0c3e42b1758de3148b7490954500\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\c8ee582787badd56e0d190dfb8477df0\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\c8ee582787badd56e0d190dfb8477df0\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.10.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\761a9980d70523e13b39453be2c35d81\transformed\core-ktx-1.10.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.10.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\761a9980d70523e13b39453be2c35d81\transformed\core-ktx-1.10.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core:1.10.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\3487d8ef9d412e425dc20b357b6ddf07\transformed\core-1.10.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.10.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\3487d8ef9d412e425dc20b357b6ddf07\transformed\core-1.10.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\29ce3746a8404a8c2d60c215f689d1e1\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\29ce3746a8404a8c2d60c215f689d1e1\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\66ac63c1f78e76291c9b440e1c963e31\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\66ac63c1f78e76291c9b440e1c963e31\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\b42c698d0242718532f02063458f9ce5\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\b42c698d0242718532f02063458f9ce5\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.5.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\f44cfd588a6ac70aee6be4b858df7e9a\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.5.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\f44cfd588a6ac70aee6be4b858df7e9a\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\3ad749d5d1cef2b0291a56caac6c8e6b\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\3ad749d5d1cef2b0291a56caac6c8e6b\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\f764a4bc5ea544340bfb920227636306\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\f764a4bc5ea544340bfb920227636306\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\f04bc3aa1e37bfee2a4085916913cfdc\transformed\play-services-measurement-sdk-api-21.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\f04bc3aa1e37bfee2a4085916913cfdc\transformed\play-services-measurement-sdk-api-21.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\85d738ca117527a13a114508ff04c743\transformed\play-services-measurement-base-21.5.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\85d738ca117527a13a114508ff04c743\transformed\play-services-measurement-base-21.5.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\a001f461bf0159d7beec5aada6121304\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\a001f461bf0159d7beec5aada6121304\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\e07cbe5d09c48d074ffd297c83773686\transformed\play-services-basement-18.2.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\e07cbe5d09c48d074ffd297c83773686\transformed\play-services-basement-18.2.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.6.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\e6550fe58e8086a912dae496f73ad183\transformed\fragment-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.6.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\e6550fe58e8086a912dae496f73ad183\transformed\fragment-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\b545713ab401980959e494e4987b6fad\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\b545713ab401980959e494e4987b6fad\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\af82fd838e1071666d851e7dafe33b9a\transformed\activity-ktx-1.8.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\af82fd838e1071666d851e7dafe33b9a\transformed\activity-ktx-1.8.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.8.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\c6e0b84133041d8f614198365dab1518\transformed\activity-1.8.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\c6e0b84133041d8f614198365dab1518\transformed\activity-1.8.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.8.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5e93b0d3e8aaeefba62aa8be7444f031\transformed\activity-compose-1.8.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.8.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5e93b0d3e8aaeefba62aa8be7444f031\transformed\activity-compose-1.8.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.5.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\f6565f43a5a0a7d224bd16d821f75350\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.5.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\f6565f43a5a0a7d224bd16d821f75350\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\14b2f2304d897c6a715e56e13cfce7f8\transformed\circleimageview-3.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\14b2f2304d897c6a715e56e13cfce7f8\transformed\circleimageview-3.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\8f9ee3bf1d805dcf5625d2e8903d9ccd\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\8f9ee3bf1d805dcf5625d2e8903d9ccd\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5848cb5327a07b94640dd711823c881f\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5848cb5327a07b94640dd711823c881f\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\8d47b60f302bdec788d1f7349ca0234e\transformed\gifdecoder-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\8d47b60f302bdec788d1f7349ca0234e\transformed\gifdecoder-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\TUFF DASH\.gradle\caches\transforms-3\79d45b68b65b3599b9af64ec5263a453\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\TUFF DASH\.gradle\caches\transforms-3\79d45b68b65b3599b9af64ec5263a453\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\d601945f025f0894f454a1eb8c97d893\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\d601945f025f0894f454a1eb8c97d893\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\ef1bf77c90813afedd607d113229c149\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\ef1bf77c90813afedd607d113229c149\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\8fd0bca8bee1558cc700eede98017e8d\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\8fd0bca8bee1558cc700eede98017e8d\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:17.1.5] C:\Users\TUFF DASH\.gradle\caches\transforms-3\4c61b5bdbb1898997adb9c793f7ed9df\transformed\firebase-components-17.1.5\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-components:17.1.5] C:\Users\TUFF DASH\.gradle\caches\transforms-3\4c61b5bdbb1898997adb9c793f7ed9df\transformed\firebase-components-17.1.5\AndroidManifest.xml:18:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\ee19ebc2a245415ceb79f548875ce868\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\ee19ebc2a245415ceb79f548875ce868\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5506a24a776319a2527b9b61121f0c14\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5506a24a776319a2527b9b61121f0c14\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\9489e61a92dabb37f550e8f7f1eadafc\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\9489e61a92dabb37f550e8f7f1eadafc\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\a2e8f6fa0602221bf6ba786ea8c4650f\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\a2e8f6fa0602221bf6ba786ea8c4650f\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\f0a5e990e821f36d55bc21cf8657aa0e\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\f0a5e990e821f36d55bc21cf8657aa0e\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\1cd7f71b21774e28b8f344aa47b63046\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\1cd7f71b21774e28b8f344aa47b63046\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\8a12b982093624259d1d8bda9b3e4b1b\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\8a12b982093624259d1d8bda9b3e4b1b\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [io.grpc:grpc-android:1.52.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\768475b1920fef6a48793358e18627b1\transformed\grpc-android-1.52.1\AndroidManifest.xml:5:5-7:41
+MERGED from [io.grpc:grpc-android:1.52.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\768475b1920fef6a48793358e18627b1\transformed\grpc-android-1.52.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\4ea395e13e59c84090807b0a870d96de\transformed\protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\4ea395e13e59c84090807b0a870d96de\transformed\protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\b8ea54dd565237673961fb089ddf4281\transformed\firebase-auth-22.3.0\AndroidManifest.xml:23:9-61
+	android:targetSdkVersion
+		INJECTED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:12:5-79
+MERGED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\b8ea54dd565237673961fb089ddf4281\transformed\firebase-auth-22.3.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\b8ea54dd565237673961fb089ddf4281\transformed\firebase-auth-22.3.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-firestore:24.9.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5056674188a1e25e28f1d7be2a89f897\transformed\firebase-firestore-24.9.1\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-firestore:24.9.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5056674188a1e25e28f1d7be2a89f897\transformed\firebase-firestore-24.9.1\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-database:20.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\49dc63584efa0379198e0c10b58d1301\transformed\firebase-database-20.3.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-database:20.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\49dc63584efa0379198e0c10b58d1301\transformed\firebase-database-20.3.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\1662677f7fb9de612507a38c70da3324\transformed\play-services-measurement-api-21.5.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\1662677f7fb9de612507a38c70da3324\transformed\play-services-measurement-api-21.5.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\2293315088177bb95a66a1abb40dd9ec\transformed\firebase-storage-20.3.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\2293315088177bb95a66a1abb40dd9ec\transformed\firebase-storage-20.3.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:17.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5f164f011aa807a89f5e5465a4cbd3f6\transformed\firebase-installations-17.2.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-installations:17.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5f164f011aa807a89f5e5465a4cbd3f6\transformed\firebase-installations-17.2.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-measurement:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5d49afcde2167bd2c91da650040686a6\transformed\play-services-measurement-21.5.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5d49afcde2167bd2c91da650040686a6\transformed\play-services-measurement-21.5.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\baf1955d008937f1f2e71d367c07ed80\transformed\recaptcha-18.1.2\AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\baf1955d008937f1f2e71d367c07ed80\transformed\recaptcha-18.1.2\AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\d89dea83dcbac986e6d571574ff282d1\transformed\play-services-measurement-impl-21.5.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\d89dea83dcbac986e6d571574ff282d1\transformed\play-services-measurement-impl-21.5.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\f04bc3aa1e37bfee2a4085916913cfdc\transformed\play-services-measurement-sdk-api-21.5.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\f04bc3aa1e37bfee2a4085916913cfdc\transformed\play-services-measurement-sdk-api-21.5.0\AndroidManifest.xml:24:5-79
+MERGED from [io.grpc:grpc-android:1.52.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\768475b1920fef6a48793358e18627b1\transformed\grpc-android-1.52.1\AndroidManifest.xml:9:5-79
+MERGED from [io.grpc:grpc-android:1.52.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\768475b1920fef6a48793358e18627b1\transformed\grpc-android-1.52.1\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:12:22-76
+meta-data#com.google.android.gms.version
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:16:9-18:69
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\e07cbe5d09c48d074ffd297c83773686\transformed\play-services-basement-18.2.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\e07cbe5d09c48d074ffd297c83773686\transformed\play-services-basement-18.2.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:18:13-66
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:17:13-58
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:19:9-21:63
+	android:value
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:21:13-60
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:20:13-58
+activity#com.firebase.ui.auth.KickoffActivity
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:23:9-27:61
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:26:13-29
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:27:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:24:13-64
+activity#com.firebase.ui.auth.ui.idp.SingleSignInActivity
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:28:9-32:61
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:31:13-29
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:30:13-37
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:32:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:29:13-76
+activity#com.firebase.ui.auth.ui.credentials.CredentialSaveActivity
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:33:9-37:61
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:36:13-29
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:35:13-37
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:37:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:34:13-86
+activity#com.firebase.ui.auth.ui.email.RecoverPasswordActivity
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:38:9-42:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:41:13-72
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:42:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:40:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:39:13-81
+activity#com.firebase.ui.auth.ui.email.EmailActivity
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:43:9-47:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:46:13-56
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:47:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:45:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:44:13-71
+activity#com.firebase.ui.auth.ui.phone.PhoneActivity
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:48:9-52:77
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:51:13-66
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:52:13-74
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:50:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:49:13-71
+activity#com.firebase.ui.auth.ui.idp.WelcomeBackIdpPrompt
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:53:9-57:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:56:13-70
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:57:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:55:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:54:13-76
+activity#com.firebase.ui.auth.ui.email.WelcomeBackPasswordPrompt
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:58:9-62:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:61:13-75
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:62:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:60:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:59:13-83
+activity#com.firebase.ui.auth.ui.email.WelcomeBackEmailLinkPrompt
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:63:9-67:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:66:13-75
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:67:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:65:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:64:13-84
+activity#com.firebase.ui.auth.ui.email.EmailLinkCatcherActivity
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:68:9-73:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:71:13-29
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:73:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:70:13-37
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:72:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:69:13-82
+activity#com.firebase.ui.auth.ui.email.EmailLinkErrorRecoveryActivity
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:74:9-78:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:77:13-56
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:78:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:76:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:75:13-88
+activity#com.firebase.ui.auth.ui.idp.AuthMethodPickerActivity
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:79:9-82:65
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:82:13-62
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:81:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:80:13-80
+activity#com.facebook.FacebookActivity
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:83:9-87:48
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:86:13-45
+	tools:ignore
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:87:13-45
+	android:configChanges
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:85:13-96
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:84:13-57
+activity#com.facebook.CustomTabActivity
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:88:9-100:20
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:90:13-36
+	tools:ignore
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:91:13-45
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:89:13-58
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:@string/facebook_login_protocol_scheme
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:92:13-99:29
+action#android.intent.action.VIEW
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:93:17-69
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:93:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:95:17-76
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:95:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:96:17-78
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:96:27-75
+data
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:98:17-81
+	android:scheme
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:98:23-78
+provider#com.firebase.ui.auth.data.client.AuthUiInitProvider
+ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:102:9-106:38
+	android:authorities
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:104:13-70
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:105:13-37
+	android:initOrder
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:106:13-35
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:7.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\13fb2675b0ce6cae38ec9350d59006e8\transformed\firebase-ui-auth-7.2.0\AndroidManifest.xml:103:13-79
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-storage-ktx:20.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\b3a6367f79ed8464019c0944465fd029\transformed\firebase-storage-ktx-20.3.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\b8ea54dd565237673961fb089ddf4281\transformed\firebase-auth-22.3.0\AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\b8ea54dd565237673961fb089ddf4281\transformed\firebase-auth-22.3.0\AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-firestore:24.9.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5056674188a1e25e28f1d7be2a89f897\transformed\firebase-firestore-24.9.1\AndroidManifest.xml:14:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:24.9.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5056674188a1e25e28f1d7be2a89f897\transformed\firebase-firestore-24.9.1\AndroidManifest.xml:14:9-23:19
+MERGED from [com.google.firebase:firebase-database:20.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\49dc63584efa0379198e0c10b58d1301\transformed\firebase-database-20.3.0\AndroidManifest.xml:26:9-35:19
+MERGED from [com.google.firebase:firebase-database:20.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\49dc63584efa0379198e0c10b58d1301\transformed\firebase-database-20.3.0\AndroidManifest.xml:26:9-35:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\1662677f7fb9de612507a38c70da3324\transformed\play-services-measurement-api-21.5.0\AndroidManifest.xml:34:9-40:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\1662677f7fb9de612507a38c70da3324\transformed\play-services-measurement-api-21.5.0\AndroidManifest.xml:34:9-40:19
+MERGED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\2293315088177bb95a66a1abb40dd9ec\transformed\firebase-storage-20.3.0\AndroidManifest.xml:27:9-36:19
+MERGED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\2293315088177bb95a66a1abb40dd9ec\transformed\firebase-storage-20.3.0\AndroidManifest.xml:27:9-36:19
+MERGED from [com.google.firebase:firebase-installations:17.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5f164f011aa807a89f5e5465a4cbd3f6\transformed\firebase-installations-17.2.0\AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-installations:17.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5f164f011aa807a89f5e5465a4cbd3f6\transformed\firebase-installations-17.2.0\AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-appcheck:17.1.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\f8e9abe8499f7c664f86e349e62f0736\transformed\firebase-appcheck-17.1.1\AndroidManifest.xml:22:9-31:19
+MERGED from [com.google.firebase:firebase-appcheck:17.1.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\f8e9abe8499f7c664f86e349e62f0736\transformed\firebase-appcheck-17.1.1\AndroidManifest.xml:22:9-31:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\e2c6f70443113d4990a25e470a05ad41\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\e2c6f70443113d4990a25e470a05ad41\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\2d64209c6db8d33425f82c88e6f9faf9\transformed\firebase-common-20.4.2\AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\2d64209c6db8d33425f82c88e6f9faf9\transformed\firebase-common-20.4.2\AndroidManifest.xml:30:9-38:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-storage-ktx:20.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\b3a6367f79ed8464019c0944465fd029\transformed\firebase-storage-ktx-20.3.0\AndroidManifest.xml:11:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\2d64209c6db8d33425f82c88e6f9faf9\transformed\firebase-common-20.4.2\AndroidManifest.xml:34:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\2d64209c6db8d33425f82c88e6f9faf9\transformed\firebase-common-20.4.2\AndroidManifest.xml:32:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-storage-ktx:20.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\b3a6367f79ed8464019c0944465fd029\transformed\firebase-storage-ktx-20.3.0\AndroidManifest.xml:10:13-84
+meta-data#com.google.firebase.components:com.google.firebase.storage.ktx.FirebaseStorageLegacyRegistrar
+ADDED from [com.google.firebase:firebase-storage-ktx:20.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\b3a6367f79ed8464019c0944465fd029\transformed\firebase-storage-ktx-20.3.0\AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage-ktx:20.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\b3a6367f79ed8464019c0944465fd029\transformed\firebase-storage-ktx-20.3.0\AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage-ktx:20.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\b3a6367f79ed8464019c0944465fd029\transformed\firebase-storage-ktx-20.3.0\AndroidManifest.xml:13:17-125
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\b8ea54dd565237673961fb089ddf4281\transformed\firebase-auth-22.3.0\AndroidManifest.xml:29:9-46:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\b8ea54dd565237673961fb089ddf4281\transformed\firebase-auth-22.3.0\AndroidManifest.xml:31:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\b8ea54dd565237673961fb089ddf4281\transformed\firebase-auth-22.3.0\AndroidManifest.xml:33:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\b8ea54dd565237673961fb089ddf4281\transformed\firebase-auth-22.3.0\AndroidManifest.xml:32:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\b8ea54dd565237673961fb089ddf4281\transformed\firebase-auth-22.3.0\AndroidManifest.xml:34:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\b8ea54dd565237673961fb089ddf4281\transformed\firebase-auth-22.3.0\AndroidManifest.xml:30:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\b8ea54dd565237673961fb089ddf4281\transformed\firebase-auth-22.3.0\AndroidManifest.xml:35:13-45:29
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\b8ea54dd565237673961fb089ddf4281\transformed\firebase-auth-22.3.0\AndroidManifest.xml:47:9-64:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\b8ea54dd565237673961fb089ddf4281\transformed\firebase-auth-22.3.0\AndroidManifest.xml:49:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\b8ea54dd565237673961fb089ddf4281\transformed\firebase-auth-22.3.0\AndroidManifest.xml:51:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\b8ea54dd565237673961fb089ddf4281\transformed\firebase-auth-22.3.0\AndroidManifest.xml:50:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\b8ea54dd565237673961fb089ddf4281\transformed\firebase-auth-22.3.0\AndroidManifest.xml:52:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\b8ea54dd565237673961fb089ddf4281\transformed\firebase-auth-22.3.0\AndroidManifest.xml:48:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\b8ea54dd565237673961fb089ddf4281\transformed\firebase-auth-22.3.0\AndroidManifest.xml:53:13-63:29
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\b8ea54dd565237673961fb089ddf4281\transformed\firebase-auth-22.3.0\AndroidManifest.xml:69:13-71:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\b8ea54dd565237673961fb089ddf4281\transformed\firebase-auth-22.3.0\AndroidManifest.xml:71:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\b8ea54dd565237673961fb089ddf4281\transformed\firebase-auth-22.3.0\AndroidManifest.xml:70:17-109
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirebaseFirestoreKtxRegistrar
+ADDED from [com.google.firebase:firebase-firestore:24.9.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5056674188a1e25e28f1d7be2a89f897\transformed\firebase-firestore-24.9.1\AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:24.9.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5056674188a1e25e28f1d7be2a89f897\transformed\firebase-firestore-24.9.1\AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:24.9.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5056674188a1e25e28f1d7be2a89f897\transformed\firebase-firestore-24.9.1\AndroidManifest.xml:18:17-122
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:24.9.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5056674188a1e25e28f1d7be2a89f897\transformed\firebase-firestore-24.9.1\AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:24.9.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5056674188a1e25e28f1d7be2a89f897\transformed\firebase-firestore-24.9.1\AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:24.9.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5056674188a1e25e28f1d7be2a89f897\transformed\firebase-firestore-24.9.1\AndroidManifest.xml:21:17-111
+meta-data#com.google.firebase.components:com.google.firebase.database.FirebaseDatabaseKtxRegistrar
+ADDED from [com.google.firebase:firebase-database:20.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\49dc63584efa0379198e0c10b58d1301\transformed\firebase-database-20.3.0\AndroidManifest.xml:29:13-31:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:20.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\49dc63584efa0379198e0c10b58d1301\transformed\firebase-database-20.3.0\AndroidManifest.xml:31:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\49dc63584efa0379198e0c10b58d1301\transformed\firebase-database-20.3.0\AndroidManifest.xml:30:17-120
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:20.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\49dc63584efa0379198e0c10b58d1301\transformed\firebase-database-20.3.0\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:20.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\49dc63584efa0379198e0c10b58d1301\transformed\firebase-database-20.3.0\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\49dc63584efa0379198e0c10b58d1301\transformed\firebase-database-20.3.0\AndroidManifest.xml:33:17-109
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-api:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\1662677f7fb9de612507a38c70da3324\transformed\play-services-measurement-api-21.5.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5d49afcde2167bd2c91da650040686a6\transformed\play-services-measurement-21.5.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5d49afcde2167bd2c91da650040686a6\transformed\play-services-measurement-21.5.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\d89dea83dcbac986e6d571574ff282d1\transformed\play-services-measurement-impl-21.5.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\d89dea83dcbac986e6d571574ff282d1\transformed\play-services-measurement-impl-21.5.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\f04bc3aa1e37bfee2a4085916913cfdc\transformed\play-services-measurement-sdk-api-21.5.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\f04bc3aa1e37bfee2a4085916913cfdc\transformed\play-services-measurement-sdk-api-21.5.0\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\1662677f7fb9de612507a38c70da3324\transformed\play-services-measurement-api-21.5.0\AndroidManifest.xml:24:22-65
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\1662677f7fb9de612507a38c70da3324\transformed\play-services-measurement-api-21.5.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\d89dea83dcbac986e6d571574ff282d1\transformed\play-services-measurement-impl-21.5.0\AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\d89dea83dcbac986e6d571574ff282d1\transformed\play-services-measurement-impl-21.5.0\AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\f764a4bc5ea544340bfb920227636306\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\f764a4bc5ea544340bfb920227636306\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\f04bc3aa1e37bfee2a4085916913cfdc\transformed\play-services-measurement-sdk-api-21.5.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\f04bc3aa1e37bfee2a4085916913cfdc\transformed\play-services-measurement-sdk-api-21.5.0\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\1662677f7fb9de612507a38c70da3324\transformed\play-services-measurement-api-21.5.0\AndroidManifest.xml:25:22-76
+uses-permission#android.permission.ACCESS_ADSERVICES_ATTRIBUTION
+ADDED from [com.google.android.gms:play-services-measurement-api:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\1662677f7fb9de612507a38c70da3324\transformed\play-services-measurement-api-21.5.0\AndroidManifest.xml:26:5-88
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\f04bc3aa1e37bfee2a4085916913cfdc\transformed\play-services-measurement-sdk-api-21.5.0\AndroidManifest.xml:27:5-88
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\f04bc3aa1e37bfee2a4085916913cfdc\transformed\play-services-measurement-sdk-api-21.5.0\AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\1662677f7fb9de612507a38c70da3324\transformed\play-services-measurement-api-21.5.0\AndroidManifest.xml:26:22-85
+uses-permission#android.permission.ACCESS_ADSERVICES_AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\1662677f7fb9de612507a38c70da3324\transformed\play-services-measurement-api-21.5.0\AndroidManifest.xml:27:5-82
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\f04bc3aa1e37bfee2a4085916913cfdc\transformed\play-services-measurement-sdk-api-21.5.0\AndroidManifest.xml:28:5-82
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\f04bc3aa1e37bfee2a4085916913cfdc\transformed\play-services-measurement-sdk-api-21.5.0\AndroidManifest.xml:28:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\1662677f7fb9de612507a38c70da3324\transformed\play-services-measurement-api-21.5.0\AndroidManifest.xml:27:22-79
+property
+ADDED from [com.google.android.gms:play-services-measurement-api:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\1662677f7fb9de612507a38c70da3324\transformed\play-services-measurement-api-21.5.0\AndroidManifest.xml:30:9-32:61
+	android:resource
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\1662677f7fb9de612507a38c70da3324\transformed\play-services-measurement-api-21.5.0\AndroidManifest.xml:32:13-58
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\1662677f7fb9de612507a38c70da3324\transformed\play-services-measurement-api-21.5.0\AndroidManifest.xml:31:13-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\1662677f7fb9de612507a38c70da3324\transformed\play-services-measurement-api-21.5.0\AndroidManifest.xml:37:13-39:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\1662677f7fb9de612507a38c70da3324\transformed\play-services-measurement-api-21.5.0\AndroidManifest.xml:39:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\1662677f7fb9de612507a38c70da3324\transformed\play-services-measurement-api-21.5.0\AndroidManifest.xml:38:17-139
+meta-data#com.google.firebase.components:com.google.firebase.storage.FirebaseStorageKtxRegistrar
+ADDED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\2293315088177bb95a66a1abb40dd9ec\transformed\firebase-storage-20.3.0\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\2293315088177bb95a66a1abb40dd9ec\transformed\firebase-storage-20.3.0\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\2293315088177bb95a66a1abb40dd9ec\transformed\firebase-storage-20.3.0\AndroidManifest.xml:31:17-118
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\2293315088177bb95a66a1abb40dd9ec\transformed\firebase-storage-20.3.0\AndroidManifest.xml:33:13-35:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\2293315088177bb95a66a1abb40dd9ec\transformed\firebase-storage-20.3.0\AndroidManifest.xml:35:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\2293315088177bb95a66a1abb40dd9ec\transformed\firebase-storage-20.3.0\AndroidManifest.xml:34:17-107
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsKtxRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5f164f011aa807a89f5e5465a4cbd3f6\transformed\firebase-installations-17.2.0\AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5f164f011aa807a89f5e5465a4cbd3f6\transformed\firebase-installations-17.2.0\AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5f164f011aa807a89f5e5465a4cbd3f6\transformed\firebase-installations-17.2.0\AndroidManifest.xml:16:17-130
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5f164f011aa807a89f5e5465a4cbd3f6\transformed\firebase-installations-17.2.0\AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5f164f011aa807a89f5e5465a4cbd3f6\transformed\firebase-installations-17.2.0\AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.2.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5f164f011aa807a89f5e5465a4cbd3f6\transformed\firebase-installations-17.2.0\AndroidManifest.xml:19:17-127
+meta-data#com.google.firebase.components:com.google.firebase.appcheck.FirebaseAppCheckKtxRegistrar
+ADDED from [com.google.firebase:firebase-appcheck:17.1.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\f8e9abe8499f7c664f86e349e62f0736\transformed\firebase-appcheck-17.1.1\AndroidManifest.xml:25:13-27:85
+	android:value
+		ADDED from [com.google.firebase:firebase-appcheck:17.1.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\f8e9abe8499f7c664f86e349e62f0736\transformed\firebase-appcheck-17.1.1\AndroidManifest.xml:27:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-appcheck:17.1.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\f8e9abe8499f7c664f86e349e62f0736\transformed\firebase-appcheck-17.1.1\AndroidManifest.xml:26:17-120
+meta-data#com.google.firebase.components:com.google.firebase.appcheck.FirebaseAppCheckRegistrar
+ADDED from [com.google.firebase:firebase-appcheck:17.1.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\f8e9abe8499f7c664f86e349e62f0736\transformed\firebase-appcheck-17.1.1\AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-appcheck:17.1.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\f8e9abe8499f7c664f86e349e62f0736\transformed\firebase-appcheck-17.1.1\AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-appcheck:17.1.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\f8e9abe8499f7c664f86e349e62f0736\transformed\firebase-appcheck-17.1.1\AndroidManifest.xml:29:17-117
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\e2c6f70443113d4990a25e470a05ad41\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\e2c6f70443113d4990a25e470a05ad41\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\e2c6f70443113d4990a25e470a05ad41\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:13:17-116
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\967d9420dd716bc87dab1e53a5d7e273\transformed\play-services-auth-20.7.0\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\967d9420dd716bc87dab1e53a5d7e273\transformed\play-services-auth-20.7.0\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\967d9420dd716bc87dab1e53a5d7e273\transformed\play-services-auth-20.7.0\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\967d9420dd716bc87dab1e53a5d7e273\transformed\play-services-auth-20.7.0\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\967d9420dd716bc87dab1e53a5d7e273\transformed\play-services-auth-20.7.0\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\967d9420dd716bc87dab1e53a5d7e273\transformed\play-services-auth-20.7.0\AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\967d9420dd716bc87dab1e53a5d7e273\transformed\play-services-auth-20.7.0\AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\967d9420dd716bc87dab1e53a5d7e273\transformed\play-services-auth-20.7.0\AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\967d9420dd716bc87dab1e53a5d7e273\transformed\play-services-auth-20.7.0\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\967d9420dd716bc87dab1e53a5d7e273\transformed\play-services-auth-20.7.0\AndroidManifest.xml:34:13-89
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5d49afcde2167bd2c91da650040686a6\transformed\play-services-measurement-21.5.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\d89dea83dcbac986e6d571574ff282d1\transformed\play-services-measurement-impl-21.5.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\d89dea83dcbac986e6d571574ff282d1\transformed\play-services-measurement-impl-21.5.0\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5d49afcde2167bd2c91da650040686a6\transformed\play-services-measurement-21.5.0\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5d49afcde2167bd2c91da650040686a6\transformed\play-services-measurement-21.5.0\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5d49afcde2167bd2c91da650040686a6\transformed\play-services-measurement-21.5.0\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5d49afcde2167bd2c91da650040686a6\transformed\play-services-measurement-21.5.0\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5d49afcde2167bd2c91da650040686a6\transformed\play-services-measurement-21.5.0\AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5d49afcde2167bd2c91da650040686a6\transformed\play-services-measurement-21.5.0\AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5d49afcde2167bd2c91da650040686a6\transformed\play-services-measurement-21.5.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5d49afcde2167bd2c91da650040686a6\transformed\play-services-measurement-21.5.0\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5d49afcde2167bd2c91da650040686a6\transformed\play-services-measurement-21.5.0\AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5d49afcde2167bd2c91da650040686a6\transformed\play-services-measurement-21.5.0\AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5d49afcde2167bd2c91da650040686a6\transformed\play-services-measurement-21.5.0\AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5d49afcde2167bd2c91da650040686a6\transformed\play-services-measurement-21.5.0\AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5d49afcde2167bd2c91da650040686a6\transformed\play-services-measurement-21.5.0\AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.5.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\5d49afcde2167bd2c91da650040686a6\transformed\play-services-measurement-21.5.0\AndroidManifest.xml:40:13-87
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\2d64209c6db8d33425f82c88e6f9faf9\transformed\firebase-common-20.4.2\AndroidManifest.xml:23:9-28:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\2d64209c6db8d33425f82c88e6f9faf9\transformed\firebase-common-20.4.2\AndroidManifest.xml:25:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\2d64209c6db8d33425f82c88e6f9faf9\transformed\firebase-common-20.4.2\AndroidManifest.xml:27:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\2d64209c6db8d33425f82c88e6f9faf9\transformed\firebase-common-20.4.2\AndroidManifest.xml:26:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\2d64209c6db8d33425f82c88e6f9faf9\transformed\firebase-common-20.4.2\AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\2d64209c6db8d33425f82c88e6f9faf9\transformed\firebase-common-20.4.2\AndroidManifest.xml:24:13-77
+meta-data#com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\2d64209c6db8d33425f82c88e6f9faf9\transformed\firebase-common-20.4.2\AndroidManifest.xml:35:13-37:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\2d64209c6db8d33425f82c88e6f9faf9\transformed\firebase-common-20.4.2\AndroidManifest.xml:37:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\2d64209c6db8d33425f82c88e6f9faf9\transformed\firebase-common-20.4.2\AndroidManifest.xml:36:17-109
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\b35d0f92e992f8e8b3e83d9079eb4998\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\b35d0f92e992f8e8b3e83d9079eb4998\transformed\play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\b35d0f92e992f8e8b3e83d9079eb4998\transformed\play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\b35d0f92e992f8e8b3e83d9079eb4998\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+activity#androidx.activity.ComponentActivity
+ADDED from [androidx.compose.ui:ui-test-manifest:1.5.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\dd01fab2e71760a93937a57d0fbda75e\transformed\ui-test-manifest-1.5.1\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.5.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\dd01fab2e71760a93937a57d0fbda75e\transformed\ui-test-manifest-1.5.1\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.5.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\dd01fab2e71760a93937a57d0fbda75e\transformed\ui-test-manifest-1.5.1\AndroidManifest.xml:24:13-63
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.5.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\dbe30d92a65cd822928de3fb3aeafbc5\transformed\ui-tooling-release\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.5.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\dbe30d92a65cd822928de3fb3aeafbc5\transformed\ui-tooling-release\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.5.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\dbe30d92a65cd822928de3fb3aeafbc5\transformed\ui-tooling-release\AndroidManifest.xml:24:13-71
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\4c9b84523ee566fc474035c503cb2045\transformed\emoji2-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\1cc69baa05ee22a7b5167a143c89dfed\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\1cc69baa05ee22a7b5167a143c89dfed\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\d601945f025f0894f454a1eb8c97d893\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\d601945f025f0894f454a1eb8c97d893\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\ef1bf77c90813afedd607d113229c149\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\TUFF DASH\.gradle\caches\transforms-3\ef1bf77c90813afedd607d113229c149\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\4c9b84523ee566fc474035c503cb2045\transformed\emoji2-1.4.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\4c9b84523ee566fc474035c503cb2045\transformed\emoji2-1.4.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\4c9b84523ee566fc474035c503cb2045\transformed\emoji2-1.4.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\4c9b84523ee566fc474035c503cb2045\transformed\emoji2-1.4.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\4c9b84523ee566fc474035c503cb2045\transformed\emoji2-1.4.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\4c9b84523ee566fc474035c503cb2045\transformed\emoji2-1.4.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\4c9b84523ee566fc474035c503cb2045\transformed\emoji2-1.4.0\AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\1cc69baa05ee22a7b5167a143c89dfed\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\1cc69baa05ee22a7b5167a143c89dfed\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\TUFF DASH\.gradle\caches\transforms-3\1cc69baa05ee22a7b5167a143c89dfed\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\ec7685da190a7275dbe8fbb52e59bff9\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\ec7685da190a7275dbe8fbb52e59bff9\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\ec7685da190a7275dbe8fbb52e59bff9\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\ec7685da190a7275dbe8fbb52e59bff9\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\ec7685da190a7275dbe8fbb52e59bff9\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\ec7685da190a7275dbe8fbb52e59bff9\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+uses-library#android.ext.adservices
+ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\TUFF DASH\.gradle\caches\transforms-3\6c1b0c3e42b1758de3148b7490954500\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\TUFF DASH\.gradle\caches\transforms-3\6c1b0c3e42b1758de3148b7490954500\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\TUFF DASH\.gradle\caches\transforms-3\6c1b0c3e42b1758de3148b7490954500\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:24:13-50
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\3487d8ef9d412e425dc20b357b6ddf07\transformed\core-1.10.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.10.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\3487d8ef9d412e425dc20b357b6ddf07\transformed\core-1.10.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.10.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\3487d8ef9d412e425dc20b357b6ddf07\transformed\core-1.10.0\AndroidManifest.xml:23:9-81
+permission#com.example.uts.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\3487d8ef9d412e425dc20b357b6ddf07\transformed\core-1.10.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.10.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\3487d8ef9d412e425dc20b357b6ddf07\transformed\core-1.10.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.10.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\3487d8ef9d412e425dc20b357b6ddf07\transformed\core-1.10.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\3487d8ef9d412e425dc20b357b6ddf07\transformed\core-1.10.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.10.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\3487d8ef9d412e425dc20b357b6ddf07\transformed\core-1.10.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.uts.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\3487d8ef9d412e425dc20b357b6ddf07\transformed\core-1.10.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.10.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\3487d8ef9d412e425dc20b357b6ddf07\transformed\core-1.10.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\d601945f025f0894f454a1eb8c97d893\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\d601945f025f0894f454a1eb8c97d893\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\d601945f025f0894f454a1eb8c97d893\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\d601945f025f0894f454a1eb8c97d893\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\d601945f025f0894f454a1eb8c97d893\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\d601945f025f0894f454a1eb8c97d893\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\d601945f025f0894f454a1eb8c97d893\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\d601945f025f0894f454a1eb8c97d893\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\d601945f025f0894f454a1eb8c97d893\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\d601945f025f0894f454a1eb8c97d893\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\d601945f025f0894f454a1eb8c97d893\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\d601945f025f0894f454a1eb8c97d893\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\d601945f025f0894f454a1eb8c97d893\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\d601945f025f0894f454a1eb8c97d893\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\d601945f025f0894f454a1eb8c97d893\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\d601945f025f0894f454a1eb8c97d893\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\d601945f025f0894f454a1eb8c97d893\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\d601945f025f0894f454a1eb8c97d893\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\d601945f025f0894f454a1eb8c97d893\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\d601945f025f0894f454a1eb8c97d893\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\TUFF DASH\.gradle\caches\transforms-3\d601945f025f0894f454a1eb8c97d893\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92

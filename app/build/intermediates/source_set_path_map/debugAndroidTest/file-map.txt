@@ -1,0 +1,35 @@
+com.example.uts.test.app-savedstate-ktx-1.2.1-0 C:\Users\TUFF DASH\.gradle\caches\transforms-3\017be1ed98d16451ae72aa2809e86615\transformed\savedstate-ktx-1.2.1\res
+com.example.uts.test.app-lifecycle-livedata-core-2.6.2-1 C:\Users\TUFF DASH\.gradle\caches\transforms-3\14525a330c9719e696eaa094cf7ae9ca\transformed\lifecycle-livedata-core-2.6.2\res
+com.example.uts.test.app-lifecycle-process-2.6.2-2 C:\Users\TUFF DASH\.gradle\caches\transforms-3\1cc69baa05ee22a7b5167a143c89dfed\transformed\lifecycle-process-2.6.2\res
+com.example.uts.test.app-ui-unit-release-3 C:\Users\TUFF DASH\.gradle\caches\transforms-3\1f950520048f3d746796e267fcb70acb\transformed\ui-unit-release\res
+com.example.uts.test.app-lifecycle-runtime-2.6.2-4 C:\Users\TUFF DASH\.gradle\caches\transforms-3\29ce3746a8404a8c2d60c215f689d1e1\transformed\lifecycle-runtime-2.6.2\res
+com.example.uts.test.app-core-1.10.0-5 C:\Users\TUFF DASH\.gradle\caches\transforms-3\3487d8ef9d412e425dc20b357b6ddf07\transformed\core-1.10.0\res
+com.example.uts.test.app-emoji2-1.4.0-6 C:\Users\TUFF DASH\.gradle\caches\transforms-3\4c9b84523ee566fc474035c503cb2045\transformed\emoji2-1.4.0\res
+com.example.uts.test.app-core-1.5.0-7 C:\Users\TUFF DASH\.gradle\caches\transforms-3\4fd90a2d97feed3614e0ea5e2e2c5bf0\transformed\core-1.5.0\res
+com.example.uts.test.app-ui-util-release-8 C:\Users\TUFF DASH\.gradle\caches\transforms-3\4fe6e942ce045aebd2c9f15bbbc90953\transformed\ui-util-release\res
+com.example.uts.test.app-activity-compose-1.8.1-9 C:\Users\TUFF DASH\.gradle\caches\transforms-3\5e93b0d3e8aaeefba62aa8be7444f031\transformed\activity-compose-1.8.1\res
+com.example.uts.test.app-lifecycle-runtime-ktx-2.6.2-10 C:\Users\TUFF DASH\.gradle\caches\transforms-3\66ac63c1f78e76291c9b440e1c963e31\transformed\lifecycle-runtime-ktx-2.6.2\res
+com.example.uts.test.app-lifecycle-viewmodel-savedstate-2.6.2-11 C:\Users\TUFF DASH\.gradle\caches\transforms-3\72fc1647e7ad81314ea520cd5b699656\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.example.uts.test.app-core-ktx-1.10.0-12 C:\Users\TUFF DASH\.gradle\caches\transforms-3\761a9980d70523e13b39453be2c35d81\transformed\core-ktx-1.10.0\res
+com.example.uts.test.app-ui-text-release-13 C:\Users\TUFF DASH\.gradle\caches\transforms-3\79bb72ea780af466634b69bf95982058\transformed\ui-text-release\res
+com.example.uts.test.app-ui-graphics-release-14 C:\Users\TUFF DASH\.gradle\caches\transforms-3\883f56b83de1ef3105d992e87aa4e5db\transformed\ui-graphics-release\res
+com.example.uts.test.app-annotation-experimental-1.3.0-15 C:\Users\TUFF DASH\.gradle\caches\transforms-3\8a12b982093624259d1d8bda9b3e4b1b\transformed\annotation-experimental-1.3.0\res
+com.example.uts.test.app-ui-test-junit4-release-16 C:\Users\TUFF DASH\.gradle\caches\transforms-3\8c82acf6c72c46e505ac92d248e37222\transformed\ui-test-junit4-release\res
+com.example.uts.test.app-core-runtime-2.2.0-17 C:\Users\TUFF DASH\.gradle\caches\transforms-3\9489e61a92dabb37f550e8f7f1eadafc\transformed\core-runtime-2.2.0\res
+com.example.uts.test.app-lifecycle-viewmodel-2.6.2-18 C:\Users\TUFF DASH\.gradle\caches\transforms-3\a0c4c69815fdf0a4fced7d5725c72967\transformed\lifecycle-viewmodel-2.6.2\res
+com.example.uts.test.app-lifecycle-viewmodel-ktx-2.6.2-19 C:\Users\TUFF DASH\.gradle\caches\transforms-3\a554fa8bb45ec9d53cd3d6349b13950f\transformed\lifecycle-viewmodel-ktx-2.6.2\res
+com.example.uts.test.app-activity-ktx-1.8.1-20 C:\Users\TUFF DASH\.gradle\caches\transforms-3\af82fd838e1071666d851e7dafe33b9a\transformed\activity-ktx-1.8.1\res
+com.example.uts.test.app-runtime-saveable-release-21 C:\Users\TUFF DASH\.gradle\caches\transforms-3\b42c698d0242718532f02063458f9ce5\transformed\runtime-saveable-release\res
+com.example.uts.test.app-ui-test-release-22 C:\Users\TUFF DASH\.gradle\caches\transforms-3\bb62ecbd51b84fc4c96fe3e6c733c70d\transformed\ui-test-release\res
+com.example.uts.test.app-activity-1.8.1-23 C:\Users\TUFF DASH\.gradle\caches\transforms-3\c6e0b84133041d8f614198365dab1518\transformed\activity-1.8.1\res
+com.example.uts.test.app-customview-poolingcontainer-1.0.0-24 C:\Users\TUFF DASH\.gradle\caches\transforms-3\c8ee582787badd56e0d190dfb8477df0\transformed\customview-poolingcontainer-1.0.0\res
+com.example.uts.test.app-profileinstaller-1.3.0-25 C:\Users\TUFF DASH\.gradle\caches\transforms-3\d601945f025f0894f454a1eb8c97d893\transformed\profileinstaller-1.3.0\res
+com.example.uts.test.app-ui-geometry-release-26 C:\Users\TUFF DASH\.gradle\caches\transforms-3\e1ac61d65609942207799eba571f1058\transformed\ui-geometry-release\res
+com.example.uts.test.app-savedstate-1.2.1-27 C:\Users\TUFF DASH\.gradle\caches\transforms-3\e33a455ffc82d5213001f67140b88064\transformed\savedstate-1.2.1\res
+com.example.uts.test.app-startup-runtime-1.1.1-28 C:\Users\TUFF DASH\.gradle\caches\transforms-3\ef1bf77c90813afedd607d113229c149\transformed\startup-runtime-1.1.1\res
+com.example.uts.test.app-runtime-release-29 C:\Users\TUFF DASH\.gradle\caches\transforms-3\f44cfd588a6ac70aee6be4b858df7e9a\transformed\runtime-release\res
+com.example.uts.test.app-ui-release-30 C:\Users\TUFF DASH\.gradle\caches\transforms-3\f6565f43a5a0a7d224bd16d821f75350\transformed\ui-release\res
+com.example.uts.test.app-androidTest-31 C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\build\generated\res\resValues\androidTest\debug
+com.example.uts.test.app-mergeDebugAndroidTestResources-32 C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.uts.test.app-mergeDebugAndroidTestResources-33 C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.uts.test.app-merged_res-34 C:\Users\TUFF DASH\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\build\intermediates\merged_res\debugAndroidTest

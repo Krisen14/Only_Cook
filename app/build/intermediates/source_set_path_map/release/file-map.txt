@@ -1,0 +1,84 @@
+com.example.uts.app-browser-1.4.0-0 C:\Users\muham\.gradle\caches\transforms-3\078b30b48c73b16ba032b7165bdc00b9\transformed\browser-1.4.0\res
+com.example.uts.app-ui-graphics-release-1 C:\Users\muham\.gradle\caches\transforms-3\09cad088230cd137256e040511990e1b\transformed\ui-graphics-release\res
+com.example.uts.app-lifecycle-service-2.6.2-2 C:\Users\muham\.gradle\caches\transforms-3\09df1d78163b2a49de99f16de25643fc\transformed\lifecycle-service-2.6.2\res
+com.example.uts.app-circleimageview-3.1.0-3 C:\Users\muham\.gradle\caches\transforms-3\0f34f41741f3d0353e3a30893c72fc90\transformed\circleimageview-3.1.0\res
+com.example.uts.app-activity-compose-1.8.1-4 C:\Users\muham\.gradle\caches\transforms-3\1285bc9ebfe39344a5bd5554b8c7063a\transformed\activity-compose-1.8.1\res
+com.example.uts.app-slidingpanelayout-1.2.0-5 C:\Users\muham\.gradle\caches\transforms-3\17ddd1b913323dd9e3ea33ee3bdbcccc\transformed\slidingpanelayout-1.2.0\res
+com.example.uts.app-transition-1.4.1-6 C:\Users\muham\.gradle\caches\transforms-3\20597593106a18ad0c5172a0adc8a6f3\transformed\transition-1.4.1\res
+com.example.uts.app-lifecycle-process-2.6.2-7 C:\Users\muham\.gradle\caches\transforms-3\21feced80efd36444508f17d4e54ab74\transformed\lifecycle-process-2.6.2\res
+com.example.uts.app-core-1.10.0-8 C:\Users\muham\.gradle\caches\transforms-3\26ce673ea9bee6d6196b3b3f94d8fa43\transformed\core-1.10.0\res
+com.example.uts.app-library-1.6.1-9 C:\Users\muham\.gradle\caches\transforms-3\26f2359e55fa60df5141120cdf76e3e0\transformed\library-1.6.1\res
+com.example.uts.app-window-1.0.0-10 C:\Users\muham\.gradle\caches\transforms-3\2df72f240e6f29266aca2127cecca616\transformed\window-1.0.0\res
+com.example.uts.app-constraintlayout-2.1.4-11 C:\Users\muham\.gradle\caches\transforms-3\305346e0a76006890c335bfa693db8f7\transformed\constraintlayout-2.1.4\res
+com.example.uts.app-lifecycle-livedata-core-2.6.2-12 C:\Users\muham\.gradle\caches\transforms-3\3113d1086a2d9a0d06ee1cd2bae5d05d\transformed\lifecycle-livedata-core-2.6.2\res
+com.example.uts.app-fragment-1.6.2-13 C:\Users\muham\.gradle\caches\transforms-3\33f8891ccd3329a45c91aaba7c0c1782\transformed\fragment-1.6.2\res
+com.example.uts.app-animation-core-release-14 C:\Users\muham\.gradle\caches\transforms-3\35ece6afb98b2a5cda562d8e088f8a39\transformed\animation-core-release\res
+com.example.uts.app-core-runtime-2.2.0-15 C:\Users\muham\.gradle\caches\transforms-3\365000d58927721121fa287f0250d60e\transformed\core-runtime-2.2.0\res
+com.example.uts.app-navigation-runtime-2.7.5-16 C:\Users\muham\.gradle\caches\transforms-3\3c0f84e727803740152a2237c25444bc\transformed\navigation-runtime-2.7.5\res
+com.example.uts.app-savedstate-ktx-1.2.1-17 C:\Users\muham\.gradle\caches\transforms-3\3d8097bf111bca6671fc9df07c5c21aa\transformed\savedstate-ktx-1.2.1\res
+com.example.uts.app-annotation-experimental-1.3.0-18 C:\Users\muham\.gradle\caches\transforms-3\3dbe92e61da44829fc7bb5ba692a1e3b\transformed\annotation-experimental-1.3.0\res
+com.example.uts.app-emoji2-1.4.0-19 C:\Users\muham\.gradle\caches\transforms-3\438316125b81ac6209420a677b6adfc0\transformed\emoji2-1.4.0\res
+com.example.uts.app-animation-release-20 C:\Users\muham\.gradle\caches\transforms-3\449eddf58267d3ac364cc587ad8638fe\transformed\animation-release\res
+com.example.uts.app-customview-poolingcontainer-1.0.0-21 C:\Users\muham\.gradle\caches\transforms-3\486a3ea9662cebcd27c75598bec58862\transformed\customview-poolingcontainer-1.0.0\res
+com.example.uts.app-runtime-release-22 C:\Users\muham\.gradle\caches\transforms-3\48dae9cea4369f705057f0269c2ba5a6\transformed\runtime-release\res
+com.example.uts.app-foundation-layout-release-23 C:\Users\muham\.gradle\caches\transforms-3\49537f2560f34671520e6b52d4356e30\transformed\foundation-layout-release\res
+com.example.uts.app-lifecycle-viewmodel-compose-2.6.2-24 C:\Users\muham\.gradle\caches\transforms-3\536810605ab870076989bbce1b75e16d\transformed\lifecycle-viewmodel-compose-2.6.2\res
+com.example.uts.app-ui-geometry-release-25 C:\Users\muham\.gradle\caches\transforms-3\5bcf71b9324f56919ffb17ea7d162c04\transformed\ui-geometry-release\res
+com.example.uts.app-firebase-common-20.4.2-26 C:\Users\muham\.gradle\caches\transforms-3\64da298d58f51c323e9b967e5fb60b61\transformed\firebase-common-20.4.2\res
+com.example.uts.app-lifecycle-runtime-2.6.2-27 C:\Users\muham\.gradle\caches\transforms-3\699748786e0b63f64c8edcb375955588\transformed\lifecycle-runtime-2.6.2\res
+com.example.uts.app-activity-ktx-1.8.1-28 C:\Users\muham\.gradle\caches\transforms-3\6be628ef004cacd6d753155c3ff394a6\transformed\activity-ktx-1.8.1\res
+com.example.uts.app-material3-1.0.0-29 C:\Users\muham\.gradle\caches\transforms-3\71d4ecefbaae5a6b3ff763c22236f85f\transformed\material3-1.0.0\res
+com.example.uts.app-appcompat-1.6.1-30 C:\Users\muham\.gradle\caches\transforms-3\780f89922e0d0767818abc2cdc44d8e0\transformed\appcompat-1.6.1\res
+com.example.uts.app-ui-util-release-31 C:\Users\muham\.gradle\caches\transforms-3\7b534c149143c92ec94b948e21e8afe3\transformed\ui-util-release\res
+com.example.uts.app-cardview-1.0.0-32 C:\Users\muham\.gradle\caches\transforms-3\7c72adffbef8f04864daf2e6ce0ddff3\transformed\cardview-1.0.0\res
+com.example.uts.app-material-ripple-1.4.0-33 C:\Users\muham\.gradle\caches\transforms-3\82d539197b4ed981d5b172904d32eb21\transformed\material-ripple-1.4.0\res
+com.example.uts.app-lifecycle-runtime-ktx-2.6.2-34 C:\Users\muham\.gradle\caches\transforms-3\831e23b3bcfd40741058d8c487bf9551\transformed\lifecycle-runtime-ktx-2.6.2\res
+com.example.uts.app-lifecycle-viewmodel-2.6.2-35 C:\Users\muham\.gradle\caches\transforms-3\8799f5ac8a977b1c38375ebfced939c2\transformed\lifecycle-viewmodel-2.6.2\res
+com.example.uts.app-lifecycle-livedata-core-ktx-2.6.2-36 C:\Users\muham\.gradle\caches\transforms-3\87efa43214e1601218f6abfc086da072\transformed\lifecycle-livedata-core-ktx-2.6.2\res
+com.example.uts.app-runtime-saveable-release-37 C:\Users\muham\.gradle\caches\transforms-3\8d26531fceba49e1da5d4b95a031486f\transformed\runtime-saveable-release\res
+com.example.uts.app-navigation-fragment-2.7.5-38 C:\Users\muham\.gradle\caches\transforms-3\8dc77afc68a6ef8d2311fce46933a83a\transformed\navigation-fragment-2.7.5\res
+com.example.uts.app-coordinatorlayout-1.1.0-39 C:\Users\muham\.gradle\caches\transforms-3\8fa3ef23d7d10685638b7ff9a240155d\transformed\coordinatorlayout-1.1.0\res
+com.example.uts.app-navigation-common-2.7.5-40 C:\Users\muham\.gradle\caches\transforms-3\90fe3dbcd0cfbbb63d02dd6f4f03a8ba\transformed\navigation-common-2.7.5\res
+com.example.uts.app-startup-runtime-1.1.1-41 C:\Users\muham\.gradle\caches\transforms-3\98da4f132e146c8acd27791baeb9a8f0\transformed\startup-runtime-1.1.1\res
+com.example.uts.app-appcompat-resources-1.6.1-42 C:\Users\muham\.gradle\caches\transforms-3\9a139ee528be1f47d2de7a4fe42b7fb0\transformed\appcompat-resources-1.6.1\res
+com.example.uts.app-profileinstaller-1.3.0-43 C:\Users\muham\.gradle\caches\transforms-3\9dfff1174dc93e5aa5e6e37673c79485\transformed\profileinstaller-1.3.0\res
+com.example.uts.app-ui-text-release-44 C:\Users\muham\.gradle\caches\transforms-3\a37deb5e63a5170ab712af27deca2f85\transformed\ui-text-release\res
+com.example.uts.app-material-1.8.0-45 C:\Users\muham\.gradle\caches\transforms-3\aa6a83f3616898d376ea40b65475cfce\transformed\material-1.8.0\res
+com.example.uts.app-play-services-base-18.1.0-46 C:\Users\muham\.gradle\caches\transforms-3\aea3e9a95b85c29a97e66dd2c5917e25\transformed\play-services-base-18.1.0\res
+com.example.uts.app-media-1.0.0-47 C:\Users\muham\.gradle\caches\transforms-3\b6ed69f2c3486918cc30933619c9982e\transformed\media-1.0.0\res
+com.example.uts.app-drawerlayout-1.1.1-48 C:\Users\muham\.gradle\caches\transforms-3\b7525950646dc7f5a201791672b34687\transformed\drawerlayout-1.1.1\res
+com.example.uts.app-lifecycle-viewmodel-savedstate-2.6.2-49 C:\Users\muham\.gradle\caches\transforms-3\bb926abade113c1ca90ff0da26639e1c\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.example.uts.app-material-icons-core-1.4.0-50 C:\Users\muham\.gradle\caches\transforms-3\be710d666f240dd24385b3216cefbcea\transformed\material-icons-core-1.4.0\res
+com.example.uts.app-navigation-runtime-ktx-2.7.5-51 C:\Users\muham\.gradle\caches\transforms-3\c06de363a6207211edac16eaf033d569\transformed\navigation-runtime-ktx-2.7.5\res
+com.example.uts.app-ads-adservices-1.0.0-beta05-52 C:\Users\muham\.gradle\caches\transforms-3\c0f0caa8cfd712885aec1e6b5d20f256\transformed\ads-adservices-1.0.0-beta05\res
+com.example.uts.app-ui-unit-release-53 C:\Users\muham\.gradle\caches\transforms-3\c30d9d60afb233fa0eed840a3b5fd6ad\transformed\ui-unit-release\res
+com.example.uts.app-fragment-ktx-1.6.2-54 C:\Users\muham\.gradle\caches\transforms-3\c49d5bca8072abe61f2178b71440e979\transformed\fragment-ktx-1.6.2\res
+com.example.uts.app-play-services-basement-18.2.0-55 C:\Users\muham\.gradle\caches\transforms-3\c4cd655f7897399eecb60905d4347dc2\transformed\play-services-basement-18.2.0\res
+com.example.uts.app-navigation-fragment-ktx-2.7.5-56 C:\Users\muham\.gradle\caches\transforms-3\c90bef03914b2b9868b591598437a675\transformed\navigation-fragment-ktx-2.7.5\res
+com.example.uts.app-lifecycle-viewmodel-ktx-2.6.2-57 C:\Users\muham\.gradle\caches\transforms-3\ca39d464e29a65d0a6b1b5a76872f775\transformed\lifecycle-viewmodel-ktx-2.6.2\res
+com.example.uts.app-navigation-ui-ktx-2.7.5-58 C:\Users\muham\.gradle\caches\transforms-3\ce7c00d3f42064f7c0ba0115265e80a8\transformed\navigation-ui-ktx-2.7.5\res
+com.example.uts.app-viewpager2-1.0.0-59 C:\Users\muham\.gradle\caches\transforms-3\d075d08aa42a4d42d3de50526d750a7e\transformed\viewpager2-1.0.0\res
+com.example.uts.app-play-services-auth-20.7.0-60 C:\Users\muham\.gradle\caches\transforms-3\d262ef1bd14d1d497ce32d8d3b87644c\transformed\play-services-auth-20.7.0\res
+com.example.uts.app-navigation-compose-2.7.5-61 C:\Users\muham\.gradle\caches\transforms-3\d331abd10ed593736fca4249dc3bca75\transformed\navigation-compose-2.7.5\res
+com.example.uts.app-foundation-release-62 C:\Users\muham\.gradle\caches\transforms-3\d524d6f75f039a89e1b76b946a47f97f\transformed\foundation-release\res
+com.example.uts.app-emoji2-views-helper-1.4.0-63 C:\Users\muham\.gradle\caches\transforms-3\d715fc19159755610b5a2f418df2b132\transformed\emoji2-views-helper-1.4.0\res
+com.example.uts.app-core-ktx-1.10.0-64 C:\Users\muham\.gradle\caches\transforms-3\d7c280f3c5cb9fc7672743bb8eb56c7b\transformed\core-ktx-1.10.0\res
+com.example.uts.app-glide-4.16.0-65 C:\Users\muham\.gradle\caches\transforms-3\db038b5d1a2bd5e4ae9713fdd0a7a7dc\transformed\glide-4.16.0\res
+com.example.uts.app-navigation-ui-2.7.5-66 C:\Users\muham\.gradle\caches\transforms-3\dbcaa0f07b56e319b08810e5ba4d0a32\transformed\navigation-ui-2.7.5\res
+com.example.uts.app-ads-adservices-java-1.0.0-beta05-67 C:\Users\muham\.gradle\caches\transforms-3\e02e877e572a28cfee96d0fc0dde6116\transformed\ads-adservices-java-1.0.0-beta05\res
+com.example.uts.app-recyclerview-1.1.0-68 C:\Users\muham\.gradle\caches\transforms-3\e05b3ff14a0830b06fdd07e0455c57d2\transformed\recyclerview-1.1.0\res
+com.example.uts.app-firebase-ui-auth-7.2.0-69 C:\Users\muham\.gradle\caches\transforms-3\e19ffe70993f07d05bc4ab74b46ad6ef\transformed\firebase-ui-auth-7.2.0\res
+com.example.uts.app-ui-release-70 C:\Users\muham\.gradle\caches\transforms-3\e1b5356a915c60c33225cf413ae8bbbf\transformed\ui-release\res
+com.example.uts.app-navigation-common-ktx-2.7.5-71 C:\Users\muham\.gradle\caches\transforms-3\e28ba3b5fb9627938eb549bc45952da9\transformed\navigation-common-ktx-2.7.5\res
+com.example.uts.app-savedstate-1.2.1-72 C:\Users\muham\.gradle\caches\transforms-3\ea7a0534f5f898d125266be501db6091\transformed\savedstate-1.2.1\res
+com.example.uts.app-play-services-measurement-api-21.5.0-73 C:\Users\muham\.gradle\caches\transforms-3\eb687283355c93f03e026de395a4c167\transformed\play-services-measurement-api-21.5.0\res
+com.example.uts.app-activity-1.8.1-74 C:\Users\muham\.gradle\caches\transforms-3\ebdd789df38f892873278150d712efbe\transformed\activity-1.8.1\res
+com.example.uts.app-lifecycle-livedata-2.6.2-75 C:\Users\muham\.gradle\caches\transforms-3\ed73bd81f12cd3013048c3470f3ec576\transformed\lifecycle-livedata-2.6.2\res
+com.example.uts.app-ui-tooling-preview-release-76 C:\Users\muham\.gradle\caches\transforms-3\f5bb956678d80fd3089d34c39e200fdd\transformed\ui-tooling-preview-release\res
+com.example.uts.app-res-77 C:\Users\muham\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\build\generated\res\processReleaseGoogleServices
+com.example.uts.app-resValues-78 C:\Users\muham\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\build\generated\res\resValues\release
+com.example.uts.app-packageReleaseResources-79 C:\Users\muham\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+com.example.uts.app-packageReleaseResources-80 C:\Users\muham\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+com.example.uts.app-merged_res-81 C:\Users\muham\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\build\intermediates\merged_res\release
+com.example.uts.app-main-82 C:\Users\muham\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\main\res
+com.example.uts.app-release-83 C:\Users\muham\AndroidStudioProjects\UTS (2) (1)\Mobapp_UAS-master\app\src\release\res
